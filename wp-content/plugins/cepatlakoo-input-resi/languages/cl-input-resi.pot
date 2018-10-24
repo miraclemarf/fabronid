@@ -1,0 +1,98 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: CepatLakoo Input Resi\n"
+"POT-Creation-Date: 2017-09-14 15:48+0700\n"
+"PO-Revision-Date: 2017-09-14 15:16+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.10\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: cepatlakoo-input-resi.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Plugin Name of the plugin/theme
+#: cepatlakoo-input-resi.php:29
+msgid "CepatLakoo Input Resi"
+msgstr ""
+
+#: cepatlakoo-input-resi.php:30
+msgid "You can add courrier list in here"
+msgstr ""
+
+#: cepatlakoo-input-resi.php:38
+msgid "Add Courrier List"
+msgstr ""
+
+#: cepatlakoo-input-resi.php:43 cepatlakoo-input-resi.php:72
+msgid "Delete"
+msgstr ""
+
+#: cepatlakoo-input-resi.php:46
+msgid "Add"
+msgstr ""
+
+#: cepatlakoo-input-resi.php:85
+msgid "CepatLakoo - Input Resi"
+msgstr ""
+
+#: cepatlakoo-input-resi.php:98 cepatlakoo-input-resi.php:103
+msgid "Choose Courrier"
+msgstr ""
+
+#: cepatlakoo-input-resi.php:101
+msgid "Please add courrier list in settings"
+msgstr ""
+
+#: cepatlakoo-input-resi.php:110 cepatlakoo-input-resi.php:222
+msgid "Tracking Code"
+msgstr ""
+
+#: cepatlakoo-input-resi.php:219
+msgid "Delivery details"
+msgstr ""
+
+#: cepatlakoo-input-resi.php:221
+msgid "Shipped via "
+msgstr ""
+
+#: cepatlakoo-input-resi.php:235 cepatlakoo-input-resi.php:248
+msgid "Your order has been shipped via "
+msgstr ""
+
+#: cepatlakoo-input-resi.php:235 cepatlakoo-input-resi.php:248
+msgid " On "
+msgstr ""
+
+#: cepatlakoo-input-resi.php:235 cepatlakoo-input-resi.php:248
+msgid " with Tracking Code : "
+msgstr ""
+
+#: cepatlakoo-input-resi.php:248
+msgid "Delivery: "
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.themewarrior.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Input Resi plugin by CepatLakoo."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "CepatLakoo"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://cepatlakoo.com"
+msgstr ""

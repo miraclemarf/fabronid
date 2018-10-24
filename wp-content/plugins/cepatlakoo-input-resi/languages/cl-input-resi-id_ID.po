@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CepatLakoo Input Resi\n"
+"POT-Creation-Date: 2018-04-18 14:03+0700\n"
+"PO-Revision-Date: 2018-04-18 14:03+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: cepatlakoo-input-resi.php\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Plugin Name of the plugin/theme
+#: cepatlakoo-input-resi.php:30
+msgid "CepatLakoo Input Resi"
+msgstr ""
+
+#: cepatlakoo-input-resi.php:31
+msgid "You can add courrier list in here"
+msgstr "Kamu bisa menambahkan daftar kurir disini"
+
+#: cepatlakoo-input-resi.php:39
+msgid "Add Courrier List"
+msgstr "Tambah daftar kurir"
+
+#: cepatlakoo-input-resi.php:44 cepatlakoo-input-resi.php:73
+msgid "Delete"
+msgstr "Hapus"
+
+#: cepatlakoo-input-resi.php:47
+msgid "Add"
+msgstr "Tambah"
+
+#: cepatlakoo-input-resi.php:86
+msgid "CepatLakoo - Input Resi"
+msgstr ""
+
+#: cepatlakoo-input-resi.php:100 cepatlakoo-input-resi.php:105
+msgid "Choose Courrier"
+msgstr "Pilih kurir"
+
+#: cepatlakoo-input-resi.php:103
+msgid "Please add courrier list in settings"
+msgstr "Tolong tambahkan daftar kurir di halaman pengaturan"
+
+#: cepatlakoo-input-resi.php:112 cepatlakoo-input-resi.php:230
+msgid "Tracking Code"
+msgstr "Kode Resi "
+
+#: cepatlakoo-input-resi.php:115
+msgid "Shipping Date"
+msgstr ""
+
+#: cepatlakoo-input-resi.php:226
+msgid "Delivery details"
+msgstr "Detail pengiriman"
+
+#: cepatlakoo-input-resi.php:228
+msgid "Shipped via "
+msgstr "Dikirim melalui "
+
+#: cepatlakoo-input-resi.php:229
+msgid "Date "
+msgstr ""
+
+#: cepatlakoo-input-resi.php:244 cepatlakoo-input-resi.php:259
+#: cepatlakoo-input-resi.php:262
+msgid "Your order has been shipped via "
+msgstr "Pesanan kamu telah dikirim melalui"
+
+#: cepatlakoo-input-resi.php:244 cepatlakoo-input-resi.php:259
+msgid "On "
+msgstr "Tgl"
+
+#: cepatlakoo-input-resi.php:244 cepatlakoo-input-resi.php:259
+#: cepatlakoo-input-resi.php:262
+msgid " with Tracking Code : "
+msgstr " Dengan kode resi"
+
+#: cepatlakoo-input-resi.php:259 cepatlakoo-input-resi.php:262
+msgid "Delivery: "
+msgstr "Pengiriman :"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.themewarrior.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Input Resi plugin by CepatLakoo."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "CepatLakoo"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://cepatlakoo.com"
+msgstr ""

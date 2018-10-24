@@ -1,0 +1,501 @@
+
+=== 2.9.4.1 - 25 Juli 2018 ===
+
+fixed: Redirect 301 & 302 tidak bekerja dengan baik
+
+=== 2.9.4 - 18 Juli 2018 ===
+
+added: beberapa tipe redirect baru 
+- 301 Permanently Redirect 
+- 302 Temporarily Redirect 
+- Meta Tag Redirect dengan delay time (support FB Pixel, Analytics, Adwords, GTM )
+- Javascript Redirect dengan delay time (support FB Pixel, Analytics, Adwords, GTM )
+- Iframe fullscreen (support FB Pixel, Analytics, Adwords, GTM )
+updated: Onpage SEO Title output
+
+added: Elementor - TP Post Grid - opsi thumbnail size, bisa custom juga
+added: Elementor - TP Post Grid - opsi thumbnail size, bisa custom juga
+fixed: Elementor - TP Youtube Video - kotak hitam di atas dan bawah video
+
+=== 2.9.3.1 - 16 April 2018 ===
+
+updated: Elementor - LP Image Video Lightbox - opsi youtube play icon color
+
+=== 2.9.3 - 16 April 2018 ===
+
+added: Elementor - LP Image Video Lightbox
+updated: Elementor - LP Button Video Lightbox
+
+updated: Facebook Pixel - WooCommerce - ViewContent "product_group" type untuk variable product
+updated: Facebook Pixel - WooCommerce - Whatsapp AddToCart "product_group" type untuk variable product
+
+=== 2.9.2 - 12 April 2018 ===
+
+added: Facebook Pixel - WooCommerce - opsi untuk disable content_ids parameter
+updated: Facebook Pixel - WooCommerce - ViewContent value & currency parameter
+fixed: Facebook Pixel - WooCommerce - content_ids di Whatsapp Button
+
+added: WooCommerce - icon cart di AddToCart button di single product
+
+added: Elementor Pro - notice jika LandingPress 2.9 tidak jalan untuk Elementor Pro 2.0
+
+=== 2.9.1.1 - 23 Maret 2018 ===
+
+fixed: Elementor Pro - Custom CSS terkadang tidak jalan (ACE js problem)
+
+=== 2.9.1 - 18 Maret 2018 ===
+
+added: WooCommerce - opsi baru untuk disable cart fragments
+added: WooCommerce - opsi baru untuk disable cart count di header minicart (kasus cart fragments aktif) 
+added: WooCommerce - admin notice supaya halaman Shop/Cart/Checkout/MyAccount jangan diedit pakai page builder
+added: WooCommerce - admin notice jika halaman Shop/Cart/Checkout/MyAccount belum di-setup
+updated: WooCommerce - deprecated add_to_cart_fragments
+updated: WooCommerce - notes untuk opsi di product gallery 
+
+added: Elementor - upgrade ke v1.9.8
+fixed: Elementor - missing date di landingpress templates & sections di error.log 
+fixed: Elementor - HTML dan Custom CSS widget tidak jalan karena missing local ACE js files
+
+=== 2.9.0 - 2 Maret 2018 ===
+
+added: Customizer Framework yang baru, live preview jadi makin mantep
+added: opsi untuk bermacam-macam Blog Layout
+added: opsi untuk ganti font size di semua element halaman blog
+added: opsi untuk Hide Header di Mobile
+added: opsi untuk Hide Menu
+added: opsi untuk Menu Placement, sebelum atau sesudah header
+added: opsi untuk Hide Menu Logo di Desktop
+added: opsi untuk Hide Sidebar
+added: opsi untuk Sidebar Width (%)
+added: opsi custom Header/Footer dari Elementor di tiap post/page
+added: opsi untuk ganti font size, font weight, text transform di Header Menu
+added: opsi untuk ganti warna BackToTop icon
+added: file license.txt 
+added: custom background fallback
+added: notes di semua metabox dan customizer area
+added: special treatment untuk intrusive ads
+updated: UI/UX untuk halaman Theme License, lebih mudah dan berbahasa Indonesia
+updated: opsi Page Width di Customizer min = 500, max = 1200, step = 10
+updated: opsi Page Width di page metabox min = 500, max = 1200, step = 100
+updated: opsi Page Width di page metabox hanya untuk default & boxed page template
+updated: default logo sekarang kosong
+updated: default footer diganti jadi Copyright 2017 Nama Website
+updated: default comment di page dan attachment adalah off
+updated: hapus custom-css customizer control, fokus ke Additional CSS
+updated: page & attachment comment defaultnya off
+updated: pakai https untuk member area landingpress
+updated: styling
+fixed: blank Customizer di salah satu member karena problem jQuery
+fixed: opsi page layout width tidak jalan di bagian header di tipe "full width"
+fixed: paginated links ke page 1
+
+added: Facebook Comments - opsi khusus untuk menampilkan FB Comment di post
+added: Facebook Comments - keterangan tentang FB App ID
+
+added: Facebook Pixel - opsi untuk show/hide kode noscript Fb Pixel
+updated: Facebook Pixel - rewrite code, output noscript di footer, valid HTML5
+updated: Facebook Pixel - rewrite code, bisa inject event di header dan footer
+updated: Facebook Pixel - rewrite code, better handling multiple facebook pixel
+updated: Facebook Pixel - WooCommerce - rewrite code, samakan dengan plugin Facebook WooCommerce
+updated: Facebook Pixel - WooCommerce - opsi pilih event AddPaymentInfo/Purchase untuk bank transfer
+fixed: Facebook Pixel - WooCommerce - opsi disable LandingPress Pixel di halaman WooCommerce
+
+added: Google Adwords - support Google Adwords versi baru (Global Site Tag)
+added: Google Adwords - support multiple Adwords Global Site Tags
+added: Google Adwords - support Adwords Conversion code yang baru di post/page
+added: Google Adwords - WooCommerce - support Adwords Conversion code yang baru di thank you page
+updated: Google Adwords - rewrite code, bisa inject event di header dan footer
+
+added: Google Analytics - support Google Analytics yang baru (Global Site Tag)
+added: Google Analytics - opsi untuk tipe script GA, analytics.js atau gtag.js 
+added: Google Analytics - integrasi dengan Global Site Tag dari Google Adwords  
+
+added: Google Tag Manager - opsi untuk show/hide kode noscript GTM.
+
+added: WooCommerce - compatible dengan WooCommerce 3.3.3
+updated: WooCommerce - merapikan semua opsi di customizer section LandingPress WooCommerce
+updated: WooCommerce - "Continue Shopping" button diarahkan ke halaman Shop
+updated: WooCommerce - simplify on sale badge, supaya cocok untuk teks panjang
+updated: WooCommerce - hilangkan "locking" ke fitur redirect to cart setelah addtocart
+updated: WooCommerce - hilangkan "locking" ke fitur ajax addtocart button
+fixed: WooCommerce - opsi ganti warna Whatsapp button tidak jalan
+
+added: WooCommerce - Whatsapp Button - tambahkan parameter [site_title] di format pesan
+added: WooCommerce - Whatsapp Button - tambahkan parameter [product_title] di format pesan
+added: WooCommerce - Whatsapp Button - tambahkan parameter [product_price] di format pesan
+added: WooCommerce - Whatsapp Button - tambahkan parameter [product_sku] di format pesan
+added: WooCommerce - Whatsapp Button - tambahkan parameter [product_categories] di format pesan
+added: WooCommerce - Whatsapp Button - tambahkan parameter [product_tags] di format pesan
+updated: WooCommerce - Whatsapp Button - pindah opsi FB Pixel event name ke section FB pixel
+fixed: WooCommerce - Whatsapp Button - ganti warna Whatsapp button sempat tidak jalan
+
+added: LP WC Ongkir - hapus transient untuk jnt, wahana, indah, sicepat
+updated: LP WC Ongkir - update wording ke bahasa Indonesia
+fixed: LP WC Ongkir - ongkir Pos tidak muncul
+
+added: Elementor - upgrade ke v1.9.7
+updated: Elementor - optimasi speed, gunakan script ACE via theme, bukan cloudflare
+updated: Elementor - pastikan cek dulu jika ZipArchive class tersedia di hosting
+updated: Elementor - hilangkan top margin elementor-inner di Edit/Preview Mode saat tidak dibutuhkan
+updated: Elementor - page width di Blank Canvas + Header&Footer template menggunakan default Elementor content width
+updated: Elementor - CSS Print Method default ke internal, dan bisa dirubah
+fixed: Elementor - opsi switcher di Page Settings tidak bisa kembali ke default
+
+added: Elementor - Template Library - support Favorite feature di LandingPress Templates & Sections
+
+added: Elementor - Document Settings - isi metabox Page Setting pindah sini
+added: Elementor - Document Settings - bisa lagsung ganti Custom Header/Footer di sini
+
+added: Elementor - LP WooCommerce Recent Products - opsi pagination
+
+added: Elementor - LP WooCommerce On Sale Products - opsi pagination
+
+added: Elementor - LP WooCommerce Best Seller Products - opsi pagination
+
+added: Elementor - LP WooCommerce Product Categories - widget baru!
+
+added: Elementor - LP WooCommerce Product AddToCart Button - widget baru!
+
+added: Elementor - LP Navigation Menu - opsi sticky menu
+added: Elementor - LP Navigation Menu - opsi sticky background color
+
+updated: Elementor - LP Optin 2Steps - pakai Elementor javascript hooks
+
+added: Elementor - LP Contact Form - Onlick Facebook Pixel Event di button submit
+
+added: Elementor - LP Payment Confirmation Form - Onlick Facebook Pixel Event di button submit
+
+updated: Elementor - LP Slider Image - pakai Elementor javascript hooks
+
+updated: Elementor - LP Slider Content - pakai Elementor javascript hooks
+
+updated: Elementor - LP Facebook Comments - notes dan default FB App ID
+
+added: Elementor - LP Button Video Lightbox - widget baru!
+
+added: Elementor - LP Button Whatsapp - opsi open in new window
+added: Elementor - LP Button Whatsapp - support CTRL+Clik
+added: Elementor - LP Button Whatsapp - Onclick Adwords Conversion versi baru
+added: Elementor - LP Button Whatsapp - opsi untuk sticky button container
+updated: Elementor - LP Button Whatsapp - ganti default prefill message
+
+added: Elementor - LP Button SMS - Onclick Adwords Conversion versi baru
+added: Elementor - LP Button SMS - opsi untuk sticky button container
+updated: Elementor - LP Button SMS - ganti default prefill message
+
+added: Elementor - LP Button Telp - Onclick Adwords Conversion versi baru
+added: Elementor - LP Button Telp - opsi untuk sticky button container
+
+added: Elementor - LP Button BBM - Onclick Adwords Conversion versi baru
+added: Elementor - LP Button BBM - opsi untuk sticky button container
+
+added: Elementor - LP Button Line - opsi open in new window
+added: Elementor - LP Button Line - support CTRL+Clik
+added: Elementor - LP Button Line - Onclick Adwords Conversion versi baru
+added: Elementor - LP Button Line - opsi untuk sticky button container
+
+added: Elementor - LP Button Telegram - opsi open in new window
+added: Elementor - LP Button Telegram - support CTRL+Clik
+added: Elementor - LP Button Telegram - Onclick Adwords Conversion versi baru
+added: Elementor - LP Button Telegram - opsi untuk sticky button container
+
+added: Elementor - LP Button Messenger - opsi open in new window
+added: Elementor - LP Button Messenger - support CTRL+Clik
+added: Elementor - LP Button Messenger - Onclick Adwords Conversion versi baru
+updated: Elementor - LP Button Messenger - hapus nilai default
+added: Elementor - LP Button Messenger - opsi untuk sticky button container
+
+=== 2.8.1 - 30 November 2017 ===
+
+added: simple 404 page template 
+fixed: search form styling issue
+
+added: Elementor - upgrade ke v1.8.7
+fixed: Elementor - terkadang editor jadi blank setelah klik button
+fixed: Elementor - LP Video Youtube - blank space di bawah video
+fixed: Elementor - LP Video Facebook - blank space di bawah video
+
+=== 2.8.0 - 22 November 2017 ===
+
+added: custom preloader untuk WordPress Customizer
+
+added: Facebook Pixel - delay 1 detik di onclick FB Pixel di semua LP Button dan WC WA Button
+added: Facebook Pixel - onlick FB Pixel di WooCommerce Whatsapp button di single product
+updated: Facebook Pixel - default parameter value = 0.00 untuk semua pixel event
+fixed: Facebook Pixel - pixel Whatsapp button terkadang tidak terekam dengan baik
+
+added: Elementor - upgrade ke v1.8.4
+added: Elementor - opsi import & export template di Page
+updated: Elementor - new API untuk LandingPress Templates & Sections library 
+updated: Elementor - LP Button SMS - hapus redirect dari FB in-app browser ke Chrome
+updated: Elementor - LP Button (semua) - new popover supaya harmonis dengan delay fb pixel
+
+added: WooCommerce - big AddToCart button di single product
+added: WooCommerce - opsi ganti warna AddToCart button di single product
+added: WooCommerce - opsi fullwidth AddToCart button di single product
+added: WooCommerce - opsi hide quantity di single product
+added: WooCommerce - opsi Whatsapp Button di single product
+added: WooCommerce - opsi ganti warna Whatsapp button di single product
+added: WooCommerce - opsi fullwidth Whatsapp button di single product
+updated: WooCommerce - sticky AddToCart & Whatsapp button
+updated: WooCommerce - AddToCart button di shop page default-nya hide
+fixed: WooCommerce - default thumbnail columns di single product, harusnya 4
+
+=== 2.7.3 - 31 Juli 2017 ===
+
+fixed: missing CSS ketika menggunakan custom header dan footer dari Elementor LandingPress
+
+added: Facebook Pixel - "domain" parameter di page dan button
+added: Facebook Pixel - on click event di Image widget di elementor
+
+fixed: Elementor - WP_DEBUG - hilangkan beberapa notice warning
+
+added: Elementor - Image widget - on click Facebook Pixel Event & AdWords conversion
+added: Elementor - semua Button widget - Facebook Pixel "domain" parameter
+added: Elementor - LP Facebook Comments widget - default APP ID, supaya bisa langsung dipakai
+fixed: Elementor - LP Contact Form widget - cegah email terkirim lebih dari 1 kali (karena Yoast SEO)
+fixed: Elementor - LP Confirmation Form widget - cegah email terkirim lebih dari 1 kali (karena Yoast SEO)
+
+added: Elementor Pro - tested dengan versi terbaru Elementor Pro v1.5.8
+
+=== 2.7.2 - 13 Juli 2017 ===
+
+fixed: Facebook Pixel - pixel event di page tidak keluar jika plugin Facebook WooCommerce aktif
+
+=== 2.7.1 - 16 Juni 2017 ===
+
+fixed: warning message ketika add new post/page
+
+=== 2.7.0 - 15 Juni 2017 ===
+
+updated: lisense key otomatis hidden jika sudah aktif
+updated: Blank Canvas (dkk) page template tersedia untuk "post"
+updated: Select2 4.0.3
+updated: hapus output noscript untuk GTM karena tidak diperlukan
+
+added: Facebook Pixel - source & version parameter LandingPress
+added: Facebook Pixel - global multiple facebook pixel di Appearance - Customize
+added: Facebook Pixel - campaign_url parameter di standard event
+added: Facebook Pixel - value & conversion parameter di standard event tertentu, khususnya Purchase
+added: Facebook Pixel - content_name, content_ids, content_type parameter di standard event tertentu
+added: Facebook Pixel - custom event di level page 
+added: Facebook Pixel - custom parameter di level page
+updated: Facebook Pixel - better support untuk multiple facebook pixel
+updated: Facebook Pixel - WooCommerce - default event "ViewContent" aktif di single product
+updated: Facebook Pixel - WooCommerce - better support untuk plugin Facebook WooCommerce
+updated: Facebook Pixel - WooCommerce - hindari double pixel loading dari LandingPress & Facebook WooCommerce
+updated: Facebook Pixel - WooCommerce - matikan opsi Facebook Pixel di LandingPress WooCommerce jika plugin Facebook WooCommerce aktif
+
+added: Elementor - upgrade ke v1.4.8
+updated: Elementor - prioritas ke internal embedding untuk generated CSS
+
+added: Elementor - Button - Facebook Pixel parameter
+added: Elementor - LP Button SMS - Facebook Pixel parameter
+added: Elementor - LP Button BBM - Facebook Pixel parameter
+added: Elementor - LP Button Instagram - Facebook Pixel parameter
+added: Elementor - LP Button Line - Facebook Pixel parameter
+added: Elementor - LP Button Messenger - Facebook Pixel parameter
+added: Elementor - LP Button Telp - Facebook Pixel parameter
+added: Elementor - LP Button Telegram - Facebook Pixel parameter
+added: Elementor - LP Button Whatsapp - Facebook Pixel parameter
+added: Elementor - LP Button Whatsapp Group - Facebook Pixel parameter
+updated: Elementor - LP Button SMS - Redirect ke Chrome dari FB Browser
+updated: Elementor - LP Button Whatsapp - support ganti baris di message dengan enter
+updated: Elementor - LP Optin - better support untuk Sendy dan KirimEmail3
+updated: Elementor - LP Contact Form - sembunyikan form jika form sudah sukses terkirim
+updated: Elementor - LP Confirmation Form - sembunyikan form jika form sudah sukses terkirim
+fixed: Elementor - LP Confirmation Form - hide email dan phone tidak berfungsi dengan benar
+fixed: Elementor - LP Posts Grid - pagination tidak jalan jika di homepage
+
+added: Elementor Pro - tested dengan versi terbaru Elementor Pro v1.5.0
+
+updated: WooCommerce - (UX) sembunyikan metabox fb pixel saat edit halaman penting WooCommerce
+updated: WooCommerce - gunakan method get_type untuk product_type di WooCommerce 3
+
+added: WooCommerce - Kode Unik - opsi angka minimum dan maksimum dari kode unik
+updated: WooCommerce - Kode Unik - gunakan WooCommerce session untuk simpan kode unik
+updated: WooCommerce - Kode Unik - bisa jalan jika halaman cart&checkout digabung
+
+updated: WooCommerce - LP WC Ongkir - otomatis mati jika plugin WC Indo Ongkir aktif & valid
+updated: WooCommerce - LP WC Ongkir - bisa jalan jika halaman cart&checkout digabung
+
+=== 2.6.2 - 24 April 2017 ===
+
+added: opsi untuk Facebook Comments dengan memasukkan FB App ID 
+added: opsi untuk hilangkan default WordPress comment jika ingin pake FB comments saja
+
+added: Elementor - LP Facebook Comments - rilis
+
+added: WooCommerce - support plugin Facebook For WooCommerce
+added: WooCommerce - matikan pixel LandingPress jika plugin Facebook For WooCommerce aktif
+updated: WooCommerce - hilangkan pesan notice jika WP_DEBUG aktif
+
+=== 2.6.1 - 20 April 2017 ===
+
+added: label "share this" sebelum sharing button di single post
+
+added: Elementor - upgrade ke v1.4.4
+added: Elementor - LP Contact Form - opsi redirect URL 
+added: Elementor - LP Payment Confirmation Form - opsi redirect URL 
+added: Elementor - LP Posts Grid - opsi untuk membuat post title tampil satu baris
+added: Elementor - LP Posts Grid - opsi untuk mengatur jumlah kata di post summary
+added: Elementor - LP Posts Grid - opsi untuk menampilkan pagination
+updated: Elementor - pasang esc_url di output link widget Button
+fixed: Elementor - button width tidak bisa fullwidth di LP Payment Confirmation Form widget element
+
+added: Elementor Pro - tested dengan versi terbaru Elementor Pro v1.2.6
+updated: Elementor Pro - bisa load Elementor Pro dengan versi baru tanpa tunggu LandingPress update
+
+added: WooCommerce 3 - opsi untuk mengaktifkan product gallery zoom
+added: WooCommerce 3 - opsi untuk menonaktifkan product gallery slider
+
+=== 2.6.0.1 - 2 April 2017 ===
+
+fixed: opsi XMLRPC dan Windows Live Writer bermasalah dikit
+
+fixed: WooCommerce - jika Direct Checkout aktif, sembunyikan woocommerce message/error di checkout
+
+=== 2.6.0 - 29 Maret 2017 ===
+
+added: opsi untuk ganti warna mobile menu di Appearance - Customize - LandingPress - Header Menu
+added: opsi untuk support XMLRPC di Appearance - Customize - LandingPress - Optimization
+added: opsi untuk support Windows Live Writer di Appearance - Customize - LandingPress - Optimization
+updated: system check - MySQL version minimum v5.5
+
+added: Elementor - upgrade ke v1.4.0
+
+added: Elementor Pro - tested dengan versi terbaru Elementor Pro v1.2.4
+
+added: WooCommerce - Google AdWords Conversion Tracking
+added: WooCommerce - Facebook Pixel Conversation Tracking, Purchase content_ids
+added: WooCommerce - opsi untuk Direct Checkout (experimental)
+added: WooCommerce - opsi untuk unlock fitur yang dikunci LandingPress
+
+added: WooCommerce - WC Ongkir - support WooCommerce 3.0
+
+=== 2.5.0 - 16 Maret 2017 ===
+
+added: opsi untuk AdWords Remarketing
+added: opsi untuk custom header script per post/page
+added: opsi untuk custom footer script per post/page
+updated: button click fb event tidak aktif jika pixel belum dipasang
+
+added: Elementor - onClick AdWords Conversion tracking di semua button
+added: Elementor - rilis LP Button Whatsapp widget element
+added: Elementor - rilis LP Payment Confirmation Form widget element
+added: Elementor - support CF7DB plugin untuk simpan database contact form & payment confirmation form
+added: Elementor - opsi untuk menggunakan wp_remote_get untuk import image
+
+updated: WuoyMembership - selalu include jquery di header
+updated: WuoyMembership - custom save_post wuoyMemberPageProtection
+
+=== 2.4.0 - 27 Februari 2017 ===
+
+added: opsi untuk hide footer via Appearance - Customize
+added: opsi background_nologo untuk header image placement
+added: WP Filter Extras
+updated: clearing edit-link di page
+
+added: Elementor - upgrade ke v1.2.3
+added: Elementor - rilis LP WuoyMembership Buy Button widget
+added: Elementor - rilis LP WuoyMembership Content Protection widget
+added: Elementor - Sales Page template, kontribusi Maghfur Amin
+added: Elementor - JV Page template, kontribusi Maghfur Amin
+updated: Elementor - hilangkan notice error message di LP Navigation Menu
+
+added: Elementor Pro - tested dengan versi terbaru Elementor Pro v1.2.2
+
+added: WuoyMembership - fully tested
+added: WuoyMembership - page protection support Elementor
+added: WuoyMembership - content protection (shortcode) support Elementor
+added: WuoyMembership - sembunyikan Wuoy shortcode generator di Elementor editor
+
+added: WPAffiliasi - fully tested
+added: WPAffiliasi - styling
+fixed: WPAffiliasi - dTree tidak bekerja ketika defer parsing javascript aktif
+
+=== 2.3.1 - 16 Februari 2017 ===
+
+added: opsi untuk padding top&bottom di header menu
+updated: layout Menu Logo untuk di mobile device ukuran kecil
+updated: default footer teks
+updated: wording di opsi basic colors
+
+added: Elementor - opsi warna border&background button di LP Content Slider
+added: Elementor - opsi warna caption di LP Image Slider
+updated: Elementor - wording opsi di LP Contact Form 
+updated: Elementor - merapikan layout di Icon List widget
+updated: Elementor - catatan penting di LP Navigation Menu
+
+=== 2.3.0 - 11 Februari 2017 ===
+
+added: Elementor - upgrade ke v1.2.1
+added: Elementor - FB Custom Event di semua Button widget
+added: Elementor - rilis LP Youtube widget element
+added: Elementor - rilis LP Facebook Video widget element
+updated: Elementor - update semua Button widget dengan API elementor terbaru
+updated: Elementor - style sticky button di Button widget
+fixed: Elementor - double control di Post Grid widget element
+
+added: Elementor Pro - tested dengan versi terbaru Elementor Pro v1.1.2
+
+updated: WooCommerce - prepare untuk WooCommerce 2.7
+updated: WooCommerce - deteksi perangkat mobile di sticky add to cart
+updated: WooCommerce - layout upsells & related ketika product tabs off
+
+added: WooCommerce - WC Ongkir - RajaOngkir API status (connected/not)
+added: WooCommerce - WC Ongkir - support ekspedisi J&T (RajaOngkir PRO)
+added: WooCommerce - WC Ongkir - support ekspedisi Wahana (RajaOngkir PRO)
+added: WooCommerce - WC Ongkir - support ekspedisi Indah (RajaOngkir PRO)
+added: WooCommerce - WC Ongkir - support ekspedisi SiCepat (RajaOngkir PRO)
+
+=== 2.2.2 - 9 Februari 2017 ===
+
+fixed: bug kecil di beberapa orang yang masih kesulitan upgrade ke v2
+
+=== 2.2.1 - 8 Februari 2017 ===
+
+updated: layout halaman Theme License supaya tidak rancu
+updated: hilangkan notice pagelayout di WP_DEBUG
+fixed: error untuk versi PHP di bawah 5.4
+
+=== 2.2.0 - 6 Februari 2017 ===
+
+updated: show update notification on all pages
+
+added: Elementor - rilis LP Image Slider widget element
+added: Elementor - rilis LP Content Slider widget element
+added: Elementor - rilis LP Posts Grid widget element
+added: Elementor - new "sticky" css class untuk section
+updated: Elementor - new style untuk sticky button
+fixed: Elementor - LP Optin 2Steps bug
+
+added: WooCommerce - opsi untuk aktifkan sticky addtocart button
+
+=== 2.1.1 - 5 Februari 2017 ===
+
+fixed: beberapa user mengalami halaman Customize jadi blank
+
+=== 2.1.0 - 4 Februari 2017 ===
+
+added: opsi page layout Boxed & Full Width
+added: opsi page width 960px - 1200px
+added: opsi custom header dari Elementor Library
+added: opsi custom footer dari Elementor Library
+added: opsi header menu logo
+added: action hook landingpress_page_before
+added: action hook landingpress_page_after
+added: tampilkan post/page IDs di halaman manage post/page
+added: icon Back To Top muncul jika scroll halaman yang panjang
+updated: comment form style
+fixed: problem di beberapa orang ketika aktivasi lisensi
+fixed: lebar header & footer di Slim Canvas page template
+
+added: Elementor - LP Navigation Menu widget element
+added: Elementor - LP Contact Form widget element
+
+fixed: WooCommerce - sidebar dimatikan di cart page dan checkout page
+fixed: WooCommerce - input label di review form tidak muncul 
+
+added: WooCommerce - WC Ongkir - pilihan TIKI REG
+updated: WooCommerce - WC Ongkir - batas 1200 gram = 2 kg

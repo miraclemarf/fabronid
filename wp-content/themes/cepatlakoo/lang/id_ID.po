@@ -1,0 +1,5651 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CepatLakoo\n"
+"POT-Creation-Date: 2018-05-22 14:53+0700\n"
+"PO-Revision-Date: 2018-05-22 14:53+0700\n"
+"Last-Translator: ThemeWarrior <support@themewarrior.com>\n"
+"Language-Team: \n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:22
+msgid "Page Not Found"
+msgstr "Halaman Tidak Ditemukan"
+
+#: 404.php:24 author.php:67 functions/theme-functions/theme-woocommerce.php:523
+#: functions/theme-functions/theme-woocommerce.php:542
+#: functions/theme-functions/theme-woocommerce.php:570
+#: functions/theme-functions/theme-woocommerce.php:590
+#: functions/theme-functions/theme-woocommerce.php:618 index.php:40
+#: single.php:30 template-blog.php:48 woocommerce.php:66
+msgid ""
+"The page you're looking for is not available. The page may have been deleted "
+"or unpublished."
+msgstr "Halaman tidak ditemukan. Halaman tersebut mungkin sudah dihapus."
+
+#: author.php:33
+msgid "Posts"
+msgstr "Pos"
+
+#: comments.php:12
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: comments.php:15
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Pos ini diproteksi password. Masukkan password untuk melihat isinya."
+
+#: comments.php:24
+msgid "No Comments"
+msgstr "Tidak Ada Komentar"
+
+#: comments.php:24
+msgid "1 Comment"
+msgstr "1 Komentar"
+
+#: comments.php:24
+msgid "% Comments"
+msgstr "% Komentar"
+
+#: comments.php:31
+msgid "&larr; Previous"
+msgstr "&larr; Sebelumnya"
+
+#: comments.php:32
+msgid "Next &rarr;"
+msgstr "Berikutnya &rarr;"
+
+#: comments.php:45
+msgid "Leave a response"
+msgstr "Tulis Komentar"
+
+#: comments.php:48
+msgid "Cancel Reply"
+msgstr "Batalkan Balasan"
+
+#: comments.php:49
+#, php-format
+msgid ""
+"You are logged in as <a href=\"%1$s\">%2$s</a> &#8212; <a href=\"%3$s"
+"\">Logout &raquo;</a>"
+msgstr ""
+"Anda login sebagai <a href=\"%1$s\">%2$s</a> &#8212; <a href=\"%3$s\">Logout "
+"&raquo;</a>"
+
+#: comments.php:51
+msgid "Full Name"
+msgstr "Nama Lengkap"
+
+#: comments.php:52
+msgid "Email Address"
+msgstr "Alamat Email"
+
+#: comments.php:53
+msgid "Web URL"
+msgstr "URL Website"
+
+#: comments.php:55
+msgid "Comment"
+msgstr "Komentar"
+
+#: comments.php:56
+msgid "Submit"
+msgstr "Kirim"
+
+#: content.php:49
+msgid "Read more"
+msgstr "Baca selengkapnya"
+
+#: footer.php:32
+#, php-format
+msgid ""
+"There is no widget assigned. You can start assigning widgets to \"Footer "
+"Widgets\" widget area from the <a href=\"%s\" target=\"_blank\">Widgets</a>."
+msgstr ""
+
+#: functions.php:87
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: functions.php:92
+msgid "WooCommerce - excelling eCommerce"
+msgstr ""
+
+#: functions.php:97
+msgid "Caldera Forms – More Than Contact Forms"
+msgstr ""
+
+#: functions.php:102
+msgid "Cepatlakoo - Ongkir"
+msgstr ""
+
+#: functions.php:110
+msgid "Cepatlakoo - Input Resi"
+msgstr ""
+
+#: functions.php:118
+msgid "Cepatlakoo - Kode Pembayaran"
+msgstr ""
+
+#: functions.php:126
+msgid "Cepatlakoo - Sales Booster for WooCommerce"
+msgstr ""
+
+#: functions.php:134
+msgid "Redux Framework"
+msgstr ""
+
+#: functions.php:201 functions/theme-functions/theme-migrations.php:49
+#: functions/theme-functions/theme-options.php:76
+#: functions/theme-functions/theme-options.php:77
+#: includes/CMB2/example-functions.php:654
+msgid "Theme Options"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "Instal Plugin Yang Dibutuhkan"
+
+#: functions/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Tema ini membutuhkan plugin: %1$s."
+
+#: functions/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Tema ini merekomendasikan penggunaan plugin: %1$s."
+
+#: functions/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Plugin-plugin berikut ini perlu diupdate ke versi terbaru agar dapat "
+"berjalan dengan baik dengan tema aktif saat ini: %1$s."
+
+#: functions/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Ada versi terbaru tersedia untuk plugin: %1$s."
+
+#: functions/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Plugin-plugin wajib berikut ini masih belum diaktifkan: %1$s."
+
+#: functions/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+"Plugin-plugin yang direkomendasikan berikut ini masih belum diaktifkan: %1$s."
+
+#: functions/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Mulai Instal Plugin"
+
+#: functions/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Mulai update plugin"
+
+#: functions/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Mulai aktifkan plugin"
+
+#: functions/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "Kembali ke halaman instalasi plugin wajib"
+
+#: functions/class-tgm-plugin-activation.php:393
+#: functions/class-tgm-plugin-activation.php:918
+#: functions/class-tgm-plugin-activation.php:2624
+#: functions/class-tgm-plugin-activation.php:3675
+msgid "Return to the Dashboard"
+msgstr "Kembali ke Dasbor"
+
+#: functions/class-tgm-plugin-activation.php:394
+#: functions/class-tgm-plugin-activation.php:3254
+msgid "Plugin activated successfully."
+msgstr "Plugin berhasil diaktifkan."
+
+#: functions/class-tgm-plugin-activation.php:395
+#: functions/class-tgm-plugin-activation.php:3047
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Plugin-plugin berikut ini berhasil diaktifkan:"
+
+#: functions/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Tidak ada perubahan. Plugin %1$s sudah aktif dari tadi."
+
+#: functions/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Plugin belum diaktifkan. Versi terbaru dari %s dibutuhkan oleh tema ini. "
+"Harap update plugin ini."
+
+#: functions/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Semua plugin berhasil diinstal & diaktifkan. %1$s"
+
+#: functions/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "Tutup notifikasi"
+
+#: functions/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr "Ada plugin yang perlu diinstall, update atau diaktifkan."
+
+#: functions/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "Harap kontak admin website ini untuk bantuan."
+
+#: functions/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Plugin perlu diupdate agar kompatibel dengan tema yang Anda gunakan."
+
+#: functions/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "Harus diupdate"
+
+#: functions/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1025
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1025
+#: functions/class-tgm-plugin-activation.php:1028
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1028
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1212
+#: functions/class-tgm-plugin-activation.php:3043
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2073
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2364
+msgid "Required"
+msgstr "Wajib"
+
+#: functions/class-tgm-plugin-activation.php:2367
+msgid "Recommended"
+msgstr "Direkomendasikan"
+
+#: functions/class-tgm-plugin-activation.php:2383
+msgid "WordPress Repository"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2386
+msgid "External Source"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2389
+msgid "Pre-Packaged"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2406
+msgid "Not Installed"
+msgstr "Belum Diinstal"
+
+#: functions/class-tgm-plugin-activation.php:2410
+msgid "Installed But Not Activated"
+msgstr "Sudah Diinstal Tapi Belum Diaktifkan"
+
+#: functions/class-tgm-plugin-activation.php:2412
+msgid "Active"
+msgstr "Aktif"
+
+#: functions/class-tgm-plugin-activation.php:2418
+msgid "Required Update not Available"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2421
+msgid "Requires Update"
+msgstr "Butuh Diupdate"
+
+#: functions/class-tgm-plugin-activation.php:2424
+msgid "Update recommended"
+msgstr "Direkomendasikan Update"
+
+#: functions/class-tgm-plugin-activation.php:2433
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2479
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Semua <span class=\"count\">(%s)</span>"
+
+#: functions/class-tgm-plugin-activation.php:2483
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Belum DiInstall <span class=\"count\">(%s)</span>"
+
+#: functions/class-tgm-plugin-activation.php:2487
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Perlu Diupdate <span class=\"count\">(%s)</span>"
+
+#: functions/class-tgm-plugin-activation.php:2491
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Belum Diaktifkan <span class=\"count\">(%s)</span>"
+
+#: functions/class-tgm-plugin-activation.php:2573
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "tidak diketahui"
+
+#: functions/class-tgm-plugin-activation.php:2581
+msgid "Installed version:"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2589
+msgid "Minimum required version:"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2601
+msgid "Available version:"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2624
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2638
+msgid "Plugin"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2639
+msgid "Source"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2640
+msgid "Type"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2644
+msgid "Version"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2645
+msgid "Status"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2694
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2705
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2779
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2812
+msgid "Install"
+msgstr "Instal"
+
+#: functions/class-tgm-plugin-activation.php:2818
+msgid "Update"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2821
+msgid "Activate"
+msgstr "Aktifkan"
+
+#: functions/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2854
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:2897
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:3003
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:3029
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:3253
+msgid "Plugin activation failed."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:3593
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:3598
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:3602
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:3604
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:3605
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:3607
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:3610
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:3612
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:3613
+msgid "All installations have been completed."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:3615
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: functions/theme-functions/theme-functions.php:14
+#, php-format
+msgid "%s Category Archives"
+msgstr ""
+
+#: functions/theme-functions/theme-functions.php:16
+#, php-format
+msgid "%s Tag Archives"
+msgstr ""
+
+#: functions/theme-functions/theme-functions.php:18
+#, php-format
+msgid "%s Daily Archives"
+msgstr ""
+
+#: functions/theme-functions/theme-functions.php:20
+#, php-format
+msgid "%s Monthly Archives"
+msgstr ""
+
+#: functions/theme-functions/theme-functions.php:22
+#, php-format
+msgid "%s Yearly Archives"
+msgstr ""
+
+#: functions/theme-functions/theme-functions.php:25
+msgid "Author Archives"
+msgstr ""
+
+#: functions/theme-functions/theme-functions.php:28
+#: functions/theme-functions/theme-functions.php:30
+#, php-format
+msgid "Search results for: \"%s\""
+msgstr ""
+
+#: functions/theme-functions/theme-functions.php:33
+msgid "Not Found"
+msgstr ""
+
+#: functions/theme-functions/theme-functions.php:37
+msgid "Archives"
+msgstr ""
+
+#: functions/theme-functions/theme-functions.php:146
+msgid ""
+"Your comment is now awaiting moderation before it will appear on this post."
+msgstr ""
+
+#: functions/theme-functions/theme-functions.php:154
+msgid "Reply"
+msgstr ""
+
+#: functions/theme-functions/theme-functions.php:166
+msgid "Pingback"
+msgstr ""
+
+#: functions/theme-functions/theme-functions.php:173
+msgid " Edit Comment"
+msgstr ""
+
+#: functions/theme-functions/theme-functions.php:315
+msgid "Newer post"
+msgstr ""
+
+#: functions/theme-functions/theme-functions.php:316
+msgid "Older Posts"
+msgstr ""
+
+#: functions/theme-functions/theme-functions.php:342
+msgid "Share this article"
+msgstr "Bagikan artikel ini"
+
+#: functions/theme-functions/theme-functions.php:344
+#: functions/theme-functions/theme-woocommerce.php:728
+msgid "Facebook Share"
+msgstr ""
+
+#: functions/theme-functions/theme-functions.php:345
+#: functions/theme-functions/theme-woocommerce.php:729
+msgid "Twitter Share"
+msgstr ""
+
+#: functions/theme-functions/theme-functions.php:348
+#: functions/theme-functions/theme-woocommerce.php:730
+msgid "Pinterest Share"
+msgstr ""
+
+#: functions/theme-functions/theme-functions.php:603
+msgid "Previous post "
+msgstr ""
+
+#: functions/theme-functions/theme-functions.php:628
+msgid "Next post "
+msgstr ""
+
+#: functions/theme-functions/theme-functions.php:756
+#: functions/theme-functions/theme-functions.php:761
+msgid "My Account"
+msgstr "Akun Saya"
+
+#: functions/theme-functions/theme-functions.php:762
+msgid "My Orders"
+msgstr ""
+
+#: functions/theme-functions/theme-functions.php:763
+msgid "Sign Out"
+msgstr "Keluar"
+
+#: functions/theme-functions/theme-functions.php:765
+msgid "Sign in / Sign Up"
+msgstr "Masuk / Mendaftar"
+
+#: functions/theme-functions/theme-functions.php:1441
+msgid ""
+"Bingung? Tonton video tutorial migrasi theme options sekarang. <a href="
+"\"https://cepatlakoo.com/video-tutorial/tutorial-migrasi-theme-options-"
+"cepatlakoo/\" target=\"_blank\">Klik di sini</a>"
+msgstr ""
+
+#: functions/theme-functions/theme-functions.php:1467
+msgid "Pasang Plugin Redux Framework"
+msgstr ""
+
+#: functions/theme-functions/theme-functions.php:1470
+msgid "Aktifkan Plugin Redux Framework"
+msgstr ""
+
+#: functions/theme-functions/theme-functions.php:1473
+msgid "Mulai Migrasi"
+msgstr ""
+
+#: functions/theme-functions/theme-functions.php:1481
+msgid "LANGKAH 1 - Pasang Plugin Redux Framework"
+msgstr ""
+
+#: functions/theme-functions/theme-functions.php:1482
+msgid ""
+"Cepatlakoo mengalami perubahan pada theme options,  Anda diwajibkan untuk "
+"menginstall plugin Redux Framework. Klik tombol Install Redux Framework "
+"untuk mulai menginstall plugin tersebut."
+msgstr ""
+
+#: functions/theme-functions/theme-functions.php:1483
+msgid "Install Redux Framework"
+msgstr ""
+
+#: functions/theme-functions/theme-functions.php:1490
+msgid "LANGKAH 2 - Aktifkan Plugin Redux Framework"
+msgstr ""
+
+#: functions/theme-functions/theme-functions.php:1491
+msgid ""
+"Cepatlakoo mengalami perubahan pada theme options,  Anda diwajibkan untuk "
+"menginstall plugin Redux Framework. Klik tombol Install Redux Framework "
+"untuk mulai menginstall plugin tersebut pada halaman berikutnya."
+msgstr ""
+
+#: functions/theme-functions/theme-functions.php:1492
+msgid "Aktifkan Redux Framework"
+msgstr ""
+
+#: functions/theme-functions/theme-functions.php:1500
+msgid "LANGKAH 3 - Mulai Migrasi"
+msgstr ""
+
+#: functions/theme-functions/theme-functions.php:1501
+msgid ""
+"Klik tombol Migrasi Sekarang untuk melakukan proses migrasi theme options ke "
+"Redux Framework."
+msgstr ""
+
+#: functions/theme-functions/theme-functions.php:1502
+#: functions/theme-functions/theme-migrations.php:1389
+msgid "Migrasi Sekarang"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:19
+msgid "Facebook Pixel Settings"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:26
+msgid "Facebook Pixel Event"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:27
+msgid ""
+"Note: Main pixel will be loaded in the LAST sequence. This is important to "
+"make sure that any button tracking event will be attributed to this main "
+"pixel"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:46
+msgid "Price"
+msgstr "Harga"
+
+#: functions/theme-functions/theme-metabox.php:47
+msgid "This price will be sending to your FB Pixel"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:57
+msgid "Currency"
+msgstr "Mata uang"
+
+#: functions/theme-functions/theme-metabox.php:58
+msgid "This currency will be sending to your FB Pixel"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:62
+msgid "Albania Lek"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:63
+msgid "Afghanistan Afghani"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:64
+msgid "Argentina Peso"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:65
+msgid "Aruba Guilder"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:66
+msgid "Australia Dollar"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:67
+msgid "Azerbaijan New Manat"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:68
+msgid "Bahamas Dollar"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:69
+msgid "Barbados Dollar"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:70
+msgid "Bangladeshi taka"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:71
+msgid "Belarus Ruble"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:72
+msgid "Belize Dollar"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:73
+msgid "Bermuda Dollar"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:74
+msgid "Bolivia Boliviano"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:75
+msgid "Bosnia and Herzegovina Convertible Marka"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:76
+msgid "Botswana Pula"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:77
+msgid "Bulgaria Lev"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:78
+msgid "Brazil Real"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:79
+msgid "Brunei Darussalam Dollar"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:80
+msgid "Cambodia Riel"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:81
+msgid "Canada Dollar"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:82
+msgid "Cayman Islands Dollar"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:83
+msgid "Chile Peso"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:84
+msgid "China Yuan Renminbi"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:85
+msgid "Colombia Peso"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:86
+msgid "Costa Rica Colon"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:87
+msgid "Croatia Kuna"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:88
+msgid "Cuba Peso"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:89
+msgid "Czech Republic Koruna"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:90
+msgid "Denmark Krone"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:91
+msgid "Dominican Republic Peso"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:92
+msgid "East Caribbean Dollar"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:93
+msgid "Egypt Pound"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:94
+msgid "El Salvador Colon"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:95
+msgid "Estonia Kroon"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:96
+msgid "Euro Member Countries"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:97
+msgid "Falkland Islands (Malvinas) Pound"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:98
+msgid "Fiji Dollar"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:99
+msgid "Ghana Cedis"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:100
+msgid "Gibraltar Pound"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:101
+msgid "Guatemala Quetzal"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:102
+msgid "Guernsey Pound"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:103
+msgid "Guyana Dollar"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:104
+msgid "Honduras Lempira"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:105
+msgid "Hong Kong Dollar"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:106
+msgid "Hungary Forint"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:107
+msgid "Iceland Krona"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:108
+msgid "India Rupee"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:109
+msgid "Indonesia Rupiah"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:110
+msgid "Iran Rial"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:111
+msgid "Isle of Man Pound"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:112
+msgid "Israel Shekel"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:113
+msgid "Jamaica Dollar"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:114
+msgid "Japan Yen"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:115
+msgid "Jersey Pound"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:116
+msgid "Kazakhstan Tenge"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:117
+msgid "Korea (North) Won"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:118
+msgid "Korea (South) Won"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:119
+msgid "Kyrgyzstan Som"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:120
+msgid "Laos Kip"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:121
+msgid "Latvia Lat"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:122
+msgid "Lebanon Pound"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:123
+msgid "Liberia Dollar"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:124
+msgid "Lithuania Litas"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:125
+msgid "Macedonia Denar"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:126
+msgid "Malaysia Ringgit"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:127
+msgid "Mauritius Rupee"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:128
+msgid "Mexico Peso"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:129
+msgid "Mongolia Tughrik"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:130
+msgid "Mozambique Metical"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:131
+msgid "Namibia Dollar"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:132
+msgid "Nepal Rupee"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:133
+msgid "Netherlands Antilles Guilder"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:134
+msgid "New Zealand Dollar"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:135
+msgid "Nicaragua Cordoba"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:136
+msgid "Nigeria Naira"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:137
+msgid "Norway Krone"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:138
+msgid "Oman Rial"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:139
+msgid "Pakistan Rupee"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:140
+msgid "Panama Balboa"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:141
+msgid "Paraguay Guarani"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:142
+msgid "Peru Nuevo Sol"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:143
+msgid "Philippines Peso"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:144
+msgid "Poland Zloty"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:145
+msgid "Qatar Riyal"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:146
+msgid "Romania New Leu"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:147
+msgid "Russia Ruble"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:148
+msgid "Saint Helena Pound"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:149
+msgid "Saudi Arabia Riyal"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:150
+msgid "Serbia Dinar"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:151
+msgid "Seychelles Rupee"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:152
+msgid "Singapore Dollar"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:153
+msgid "Solomon Islands Dollar"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:154
+msgid "Somalia Shilling"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:155
+msgid "South Africa Rand"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:156
+msgid "Sri Lanka Rupee"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:157
+msgid "Sweden Krona"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:158
+msgid "Switzerland Franc"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:159
+msgid "Suriname Dollar"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:160
+msgid "Syria Pound"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:161
+msgid "Taiwan New Dollar"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:162
+msgid "Thailand Baht"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:163
+msgid "Trinidad and Tobago Dollar"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:164
+#: functions/theme-functions/theme-metabox.php:165
+msgid "Turkey Lira"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:166
+msgid "Tuvalu Dollar"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:167
+msgid "Ukraine Hryvna"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:168
+msgid "United Kingdom Pound"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:169
+msgid "United States Dollar"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:170
+msgid "Uruguay Peso"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:171
+msgid "Uzbekistan Som"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:172
+msgid "Venezuela Bolivar"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:173
+msgid "Viet Nam Dong"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:174
+msgid "Yemen Rial"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:175
+msgid "Zimbabwe Dollar"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:201
+msgid "Facebook Sharing (Open Graph) Settings"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:208
+msgid "Facebook Image"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:209
+msgid "Upload an image."
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:216
+msgid "Add Image"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:223
+msgid "Facebook Title"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:229
+msgid "Facebook Description"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:251
+msgid "Search Engine Optimization Settings"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:258
+msgid "Turn On SEO Option"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:264
+#: includes/widgets/elementor/el-featured-products.php:62
+#: includes/widgets/elementor/el-hand-picked-products.php:71
+#: includes/widgets/elementor/el-products-by-category.php:82
+#: includes/widgets/elementor/el-recent-products.php:62
+msgid "Title"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:270
+#: includes/CMB2/example-functions.php:511
+msgid "Description"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:276
+msgid "Keywords"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:282
+msgid "Meta Robots Index"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:286
+msgid "Index"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:287
+msgid "No Index"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:291
+msgid "Meta Robots Follow"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:295
+msgid "Follow"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:296
+msgid "No Follow"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:313
+msgid "Additional Product Options"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:320
+msgid "Sidebar Options"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:324
+msgid "Use Sidebar"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:325
+msgid "Don't Use Sidebar"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:330
+msgid "Tab Options"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:334
+msgid "Vertical Tab"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:335
+msgid "Horizontal Tab"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:391
+#: functions/theme-functions/theme-metabox.php:535
+msgid "Countdown Timer Settings"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:398
+#: functions/theme-functions/theme-post-type.php:50
+#: functions/theme-functions/theme-post-type.php:51
+#: includes/widgets/elementor/el-countdown.php:33
+msgid "Countdown Timer"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:415
+msgid "Slideshow Settings"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:422
+msgid "Choose Slideshow Type"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:426
+msgid "Carousel Slideshow"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:427
+msgid "Full Width Slideshow"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:431
+msgid "Number of item per Slider"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:432
+msgid "This is number of item per slider for display"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:436
+msgid "3"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:437
+msgid "4"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:445
+msgid "Auto Slide"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:446
+msgid "Enable slide to auto play to the next slide."
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:451
+msgid "Delay"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:452
+msgid "Delay in seconds before the slide move the next one."
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:463
+msgid "Looping Auto Slide"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:464
+msgid "Slide will restart from the first slide when it reaches the last slide."
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:476
+msgid "Slideshow Image Group"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:478
+msgid "Image {#}"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:479
+msgid "Add Another Image"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:480
+#: includes/CMB2/includes/CMB2_JS.php:202
+#: includes/CMB2/includes/types/CMB2_Type_File_Base.php:63
+msgid "Remove Image"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:485
+msgid "File Image"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:488
+msgid "Recommended Image Size 396x550 for Carousel Slideshow"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:491
+msgid "Enable text & Button"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:496
+msgid "Heading"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:501
+msgid "Short Description"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:506
+#: includes/widgets/elementor/el-contact-buttons.php:64
+#: includes/widgets/elementor/el-contact-buttons.php:90
+#: includes/widgets/elementor/el-contact-buttons.php:129
+#: includes/widgets/elementor/el-contact-buttons.php:155
+#: includes/widgets/elementor/el-contact-buttons.php:194
+#: includes/widgets/elementor/el-contact-buttons.php:220
+#: includes/widgets/elementor/el-contact-buttons.php:246
+msgid "Button Text"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:511
+msgid "Button Url"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:516
+msgid "Open Link in New Window"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:542
+msgid "Countdown Type"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:546
+msgid "Normal Countdown"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:547
+msgid "Evergreen Countdown"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:552
+msgid "Detection Type"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:556
+msgid "Cookie"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:557
+msgid "IP Address"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:561
+msgid "Day"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:566
+#: functions/theme-functions/theme-metabox.php:589
+#: includes/CMB2/includes/CMB2_JS.php:189
+msgid "Hour"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:572
+#: functions/theme-functions/theme-metabox.php:595
+#: includes/CMB2/includes/CMB2_JS.php:190
+msgid "Minute"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:578
+#: functions/theme-functions/theme-metabox.php:601
+#: includes/CMB2/includes/CMB2_JS.php:191
+msgid "Second"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:584
+#: includes/widgets/elementor/el-featured-products.php:61
+#: includes/widgets/elementor/el-hand-picked-products.php:70
+#: includes/widgets/elementor/el-products-by-category.php:81
+#: includes/widgets/elementor/el-recent-products.php:61
+msgid "Date"
+msgstr ""
+
+#: functions/theme-functions/theme-metabox.php:607
+#: functions/theme-functions/theme-post-type.php:90
+msgid "Shortcode"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:48
+msgid "CepatLakoo Options"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:54
+msgid "Customize"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:59
+#: functions/theme-functions/theme-migrations.php:520
+#: functions/theme-functions/theme-options.php:274
+msgid "General Settings"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:62
+msgid "Post Settings"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:66
+#: functions/theme-functions/theme-options.php:283
+msgid "Post Excerpt Length"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:73
+msgid "Share Button"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:77
+#: functions/theme-functions/theme-options.php:295
+msgid "Enable or disable share buttons on detail page."
+msgstr "Tampilkan atau sembunyikan tombol share pada halaman blog / page."
+
+#: functions/theme-functions/theme-migrations.php:80
+#: functions/theme-functions/theme-options.php:302
+msgid "Post Navigation"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:84
+#: functions/theme-functions/theme-options.php:303
+msgid "Enable or disable post navigation on detail page."
+msgstr "Tampilkan atau sembunyikan navigasi post pada halaman blog detail."
+
+#: functions/theme-functions/theme-migrations.php:87
+msgid "Quick View Settings"
+msgstr "Konfigurasi Quick View"
+
+#: functions/theme-functions/theme-migrations.php:92
+#: functions/theme-functions/theme-options.php:434
+msgid "Quick View Product Description"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:95
+#: functions/theme-functions/theme-options.php:435
+msgid "Enable or disable product description in quick view."
+msgstr "Tampilkan atau sembunyikan deskripsi produk pada quick view."
+
+#: functions/theme-functions/theme-migrations.php:99
+#: functions/theme-functions/theme-options.php:442
+msgid "Quick View Product Category & Tag"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:102
+#: functions/theme-functions/theme-options.php:443
+msgid "Enable or disable product category and tag in quick view."
+msgstr ""
+"Tampilkan atau sembunyikan kategori produk & tag produk pada quick view."
+
+#: functions/theme-functions/theme-migrations.php:105
+#: functions/theme-functions/theme-migrations.php:635
+msgid "Top Bar Settings"
+msgstr "Konfigurasi Top Bar"
+
+#: functions/theme-functions/theme-migrations.php:109
+#: functions/theme-functions/theme-options.php:344
+#: functions/theme-functions/theme-options.php:352
+#: functions/theme-functions/theme-options.php:1641
+msgid "Top Bar"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:113
+#: functions/theme-functions/theme-options.php:353
+msgid "Enable or disable top bar."
+msgstr "Tampilkan atau sembunyikan top bar."
+
+#: functions/theme-functions/theme-migrations.php:116
+#: functions/theme-functions/theme-options.php:360
+msgid "Facebook Profile Url"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:119
+msgid "https://www.facebook.com/cepatlakoo"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:123
+#: functions/theme-functions/theme-options.php:368
+msgid "Twitter Profile Url"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:126
+msgid "https://twitter.com/cepatlakoo"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:130
+#: functions/theme-functions/theme-options.php:376
+msgid "Instagram Profile Url"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:133
+msgid "https://instagram.com/cepatlakoo"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:137
+#: functions/theme-functions/theme-options.php:384
+msgid "Phone Label"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:143
+#: functions/theme-functions/theme-options.php:393
+#: includes/widgets/elementor/el-contact-buttons.php:77
+#: includes/widgets/elementor/el-contact-buttons.php:116
+#: includes/widgets/elementor/el-contact-buttons.php:142
+msgid "Phone Number"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:149
+#: functions/theme-functions/theme-options.php:402
+msgid "Top Bar Message"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:152
+#: functions/theme-functions/theme-options.php:403
+msgid ""
+"Message to be displayed on the top bar. Allowed HTML tags: <a>, <br />, <p>, "
+"<b>, <i>, <em>,<strong>"
+msgstr ""
+"Pesan yang ingin ditampilkan pada top bar. Tag HTML yang dapat digunakan: "
+"<a>, <br />, <p>, <b>, <i>, <em>,<strong>"
+
+#: functions/theme-functions/theme-migrations.php:156
+msgid "Page Settings"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:162
+#: functions/theme-functions/theme-options.php:552
+msgid "Single Product Sidebar"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:163
+#: functions/theme-functions/theme-options.php:553
+msgid "Override Product Detail Sidebar for all Products."
+msgstr "Override seting sidebar halaman produk detail untuk semua produk."
+
+#: functions/theme-functions/theme-migrations.php:165
+#: functions/theme-functions/theme-options.php:555
+#: includes/CMB2/includes/CMB2_JS.php:144
+#: includes/widgets/elementor/el-custom-form.php:72
+#: includes/widgets/elementor/el-custom-form.php:85
+msgid "Default"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:166
+#: functions/theme-functions/theme-options.php:556
+msgid "With Sidebar"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:167
+#: functions/theme-functions/theme-options.php:557
+msgid "Without Sidebar"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:174
+#: functions/theme-functions/theme-options.php:309
+msgid "Header Layout Style"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:175
+msgid "Override Header Layout Style for all Pages."
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:177
+#: functions/theme-functions/theme-options.php:312
+msgid "Logo Left"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:178
+#: functions/theme-functions/theme-options.php:313
+msgid "Logo Middle"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:185
+#: functions/theme-functions/theme-options.php:328
+msgid "Open Graph"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:186
+msgid "Enable Open Graph."
+msgstr "Aktifkan Open Graph"
+
+#: functions/theme-functions/theme-migrations.php:192
+#: functions/theme-functions/theme-options.php:320
+msgid "Google Analytics Tracking ID"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:193
+#: functions/theme-functions/theme-options.php:321
+msgid "Set Google Analytics Tracking ID."
+msgstr "Masukkan Tracking ID Google Analytics."
+
+#: functions/theme-functions/theme-migrations.php:199
+msgid "Search Engine Optimize"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:200
+msgid "Enable SEO Optimization."
+msgstr "Aktifkan Fitur Optimisasi SEO."
+
+#: functions/theme-functions/theme-migrations.php:204
+msgid "Countdown Settings"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:209
+#: functions/theme-functions/theme-options.php:459
+msgid "Countdown Timer Heading"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:210
+#: functions/theme-functions/theme-options.php:460
+msgid "Countdown heading in product detail page."
+msgstr "Teks heading countdown timer pada halaman produk detail."
+
+#: functions/theme-functions/theme-migrations.php:216
+#: functions/theme-functions/theme-options.php:466
+msgid "Countdown Timer Sub Heading"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:217
+#: functions/theme-functions/theme-options.php:467
+msgid "Countdown sub heading in product detail page."
+msgstr "Teks sub heading countdown timer pada halaman produk detail."
+
+#: functions/theme-functions/theme-migrations.php:222
+#: functions/theme-functions/theme-migrations.php:691
+msgid "Footer Settings"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:227
+#: functions/theme-functions/theme-options.php:418
+msgid "Copyright Text"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:228
+#: functions/theme-functions/theme-options.php:419
+msgid "Copyright text in footer. Allowed HTML tags: <a>, <br />, <p>, <strong>"
+msgstr ""
+"Teks copyright di footer. Tag HTML yang dapat digunakan:  <a>, <br />, <p>, "
+"<strong>"
+
+#: functions/theme-functions/theme-migrations.php:237
+#: functions/theme-functions/theme-woocommerce.php:1220
+msgid "Shopping Cart"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:242
+msgid "Shoping Cart"
+msgstr "Keranjang Belanja"
+
+#: functions/theme-functions/theme-migrations.php:243
+msgid "Deactivate Shopping Cart"
+msgstr "Non-Aktifkan Fitur Keranjang Belanja"
+
+#: functions/theme-functions/theme-migrations.php:249
+msgid "Sticky Whatsapp Button"
+msgstr "Tombol WhatsApp Sticky"
+
+#: functions/theme-functions/theme-migrations.php:250
+msgid "Enable Sticky Whatsapp Button"
+msgstr "Jadikan Tombol WhatsApp Sticky"
+
+#: functions/theme-functions/theme-migrations.php:256
+#: functions/theme-functions/theme-options.php:704
+#: functions/theme-functions/theme-options.php:1928
+msgid "Contact Buttons"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:257
+#: functions/theme-functions/theme-options.php:705
+msgid "Enable Contact Buttons"
+msgstr "Tampilkan tombol-tombol kontak."
+
+#: functions/theme-functions/theme-migrations.php:263
+#: functions/theme-functions/theme-options.php:712
+msgid "Message Above Contact Buttons"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:264
+msgid "This message will be displayed on top of the contact buttons"
+msgstr "Teks ini akan ditampilkan pada bagian atas tombol kontak."
+
+#: functions/theme-functions/theme-migrations.php:265
+#: functions/theme-functions/theme-options.php:714
+msgid "Untuk pemesanan, silahkan klik tombol di bawah ini:"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:270
+#: functions/theme-functions/theme-options.php:720
+msgid "Contact Button Desktop Heading"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:271
+#: functions/theme-functions/theme-migrations.php:278
+msgid ""
+"This message will be displayed on popup when clicking contact buttons on "
+"desktop"
+msgstr ""
+"Teks ini akan ditampilkan pada popup when klik tombol kontak pada layar "
+"desktop."
+
+#: functions/theme-functions/theme-migrations.php:272
+#: functions/theme-functions/theme-options.php:722
+msgid "Cara Membeli"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:277
+#: functions/theme-functions/theme-options.php:728
+msgid "Contact Button Desktop Message"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:279
+#: functions/theme-functions/theme-options.php:730
+msgid ""
+"Silahkan menghubungi kami via [contact_app] di [contact_id] pada perangkat "
+"handphone Anda."
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:282
+#: functions/theme-functions/theme-options.php:687
+msgid "Follow Up Buttons"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:286
+#: functions/theme-functions/theme-migrations.php:336
+#: functions/theme-functions/theme-options.php:619
+#: functions/theme-functions/theme-options.php:760
+#: includes/widgets/elementor/el-contact-buttons.php:103
+msgid "WhatsApp Message"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:289
+#: functions/theme-functions/theme-options.php:620
+msgid ""
+"Enter your WhatsApp message. You can use %lakoo_name%, %lakoo_order_id%, "
+"%lakoo_products%, %lakoo_shipping_cost%, %lakoo_order_total% to display "
+"order detail."
+msgstr ""
+"Ketikkan teks pesan di WhatsApp. Anda dapat menggunakan kode %lakoo_name%, "
+"%lakoo_order_id%, %lakoo_products%, %lakoo_shipping_cost%, %lakoo_order_total"
+"% untuk menampilkan detail pesanan."
+
+#: functions/theme-functions/theme-migrations.php:302
+#: functions/theme-functions/theme-migrations.php:385
+#: functions/theme-functions/theme-options.php:635
+#: functions/theme-functions/theme-options.php:820
+#: includes/widgets/elementor/el-contact-buttons.php:168
+msgid "SMS Message"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:305
+#: functions/theme-functions/theme-options.php:636
+msgid ""
+"Enter your SMS message. You can use %lakoo_name%, %lakoo_order_id%, "
+"%lakoo_products%, %lakoo_shipping_cost%, %lakoo_order_total% to display "
+"order detail."
+msgstr ""
+"Ketikkan teks pesan di SMS. Anda dapat menggunakan kode %lakoo_name%, "
+"%lakoo_order_id%, %lakoo_products%, %lakoo_shipping_cost%, %lakoo_order_total"
+"% untuk menampilkan detail pesanan."
+
+#: functions/theme-functions/theme-migrations.php:318
+msgid "Messenger Buttons on Product Page"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:322
+#: functions/theme-functions/theme-options.php:744
+msgid "WhatsApp Number"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:325
+msgid "Enter your Whatsapp Number. Leave it blank to hide the button."
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:326
+#: functions/theme-functions/theme-options.php:746
+msgid "6285966634332"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:329
+msgid "WhatsApp Text"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:332
+msgid "Enter your Whatsapp Text display."
+msgstr "Teks pada tombol WhatsApp."
+
+#: functions/theme-functions/theme-migrations.php:333
+#: functions/theme-functions/theme-options.php:754
+msgid "Beli via WhatsApp"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:339
+msgid ""
+"Enter your WhatsApp message. Use %lakoo_product_name% to display the product "
+"name."
+msgstr ""
+"Masukkan teks pesan WhatsApp. Gunakan %lakoo_product_name% untuk menampilkan "
+"nama produk."
+
+#: functions/theme-functions/theme-migrations.php:340
+#: functions/theme-functions/theme-migrations.php:389
+msgid "Hai, saya berminat dengan %lakoo_product_name%"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:345
+#: functions/theme-functions/theme-options.php:768
+msgid "WhatsApp FB Ads Event"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:350
+#: functions/theme-functions/theme-options.php:778
+#: includes/widgets/elementor/el-contact-buttons.php:37
+msgid "BBM"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:353
+#: functions/theme-functions/theme-options.php:779
+msgid "Enter your BBM Pin.  Leave it blank to hide the button."
+msgstr "Masukkan Pin BBM. Kosongkan opsi di atas untuk menyembunyikan tombol."
+
+#: functions/theme-functions/theme-migrations.php:354
+#: functions/theme-functions/theme-options.php:780
+msgid "E09K98"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:357
+msgid "BBM Text"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:360
+msgid "Enter your BBM Text display."
+msgstr "Teks pada tombol BBM."
+
+#: functions/theme-functions/theme-migrations.php:361
+#: functions/theme-functions/theme-options.php:788
+msgid "Chat di BBM"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:366
+#: functions/theme-functions/theme-options.php:794
+msgid "BBM FB Ads Event"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:371
+#: functions/theme-functions/theme-options.php:804
+#: functions/theme-functions/theme-woocommerce.php:1481
+#: includes/widgets/elementor/el-contact-buttons.php:39
+msgid "SMS"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:374
+#: functions/theme-functions/theme-migrations.php:423
+#: functions/theme-functions/theme-options.php:805
+#: functions/theme-functions/theme-options.php:865
+msgid "Enter your Phone Number. Leave it blank to hide the button."
+msgstr ""
+"Masukkan nomor telepon. Kosongkan opsi di atas untuk menyembunyikan tombol."
+
+#: functions/theme-functions/theme-migrations.php:375
+#: functions/theme-functions/theme-options.php:806
+msgid "0812000912"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:378
+msgid "SMS Text"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:381
+msgid "Enter your SMS Text display."
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:382
+#: functions/theme-functions/theme-options.php:814
+msgid "Beli via SMS"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:388
+msgid ""
+"Enter your SMS Message display. Use %lakoo_product_name% to display the "
+"product name."
+msgstr ""
+"Masukkan teks yang akan dikirimkan pada SMS. Gunakan %lakoo_product_name% "
+"untuk menampilkan nama produk."
+
+#: functions/theme-functions/theme-migrations.php:394
+#: functions/theme-functions/theme-options.php:828
+msgid "SMS FB Ads Event"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:399
+#: includes/widgets/elementor/el-contact-buttons.php:40
+msgid "Line"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:402
+msgid "Enter your Line ID. Leave it blank to hide the button."
+msgstr ""
+"Masukkan LINE ID Anda. Kosongkan opsi di atas untuk menyembunyikan tombol."
+
+#: functions/theme-functions/theme-migrations.php:403
+#: functions/theme-functions/theme-options.php:840
+msgid "agnezmos"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:406
+msgid "Line Text"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:409
+msgid "Enter your Line Text display."
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:410
+#: functions/theme-functions/theme-options.php:848
+msgid "Chat di LINE"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:415
+msgid "Line FB Ads Event"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:420
+#: functions/theme-functions/theme-options.php:864
+#: includes/widgets/elementor/el-contact-buttons.php:41
+msgid "Phone"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:424
+#: functions/theme-functions/theme-options.php:866
+msgid "+628127776622"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:427
+msgid "Phone Text"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:430
+msgid "Enter your Phone Text display."
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:431
+#: functions/theme-functions/theme-options.php:874
+msgid "Telepon Kami"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:436
+#: functions/theme-functions/theme-options.php:880
+msgid "Phone FB Ads Event"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:441
+#: functions/theme-functions/theme-options.php:890
+#: includes/widgets/elementor/el-contact-buttons.php:42
+msgid "Telegram"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:444
+#: functions/theme-functions/theme-options.php:891
+msgid "Enter your Telegram ID. Leave it blank to hide the button."
+msgstr ""
+"Masukkan ID Telegram Anda. Kosongkan opsi di atas untuk menyembunyikan "
+"tombol."
+
+#: functions/theme-functions/theme-migrations.php:445
+#: functions/theme-functions/theme-options.php:892
+msgid "telegram"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:448
+msgid "Telegram Text"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:451
+msgid "Enter your Telegram Text display."
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:452
+#: functions/theme-functions/theme-options.php:900
+msgid "Beli via Telegram"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:457
+#: functions/theme-functions/theme-options.php:906
+msgid "Telegram FB Ads Event"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:467
+msgid "Optimize"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:472
+#: functions/theme-functions/theme-options.php:516
+msgid "Minify HTML & JS"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:473
+#: functions/theme-functions/theme-options.php:517
+msgid "Minify HTML to help speed up your website."
+msgstr ""
+"Minify kode HTML untuk membantu meningkatkan kecepatan loading website."
+
+#: functions/theme-functions/theme-migrations.php:479
+msgid "Remove JS/CSS Version"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:480
+#: functions/theme-functions/theme-options.php:524
+msgid "Remove JS & CSS version."
+msgstr "Hapus nomor versi pada file JS & CSS."
+
+#: functions/theme-functions/theme-migrations.php:489
+#: functions/theme-functions/theme-options.php:918
+msgid "Facebook Pixel"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:492
+#: functions/theme-functions/theme-options.php:927
+msgid "Facebook Pixel ID"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:495
+#: functions/theme-functions/theme-options.php:928
+#, php-format
+msgid ""
+"Enter your Facebook Pixel ID. you can create your Pixel ID by following this "
+"<a href=\"%s\" target=\"_blank\"> article</a>."
+msgstr ""
+"Masukkan Facebook Pixel ID, Anda dapat membuat Pixel ID dengan mengikuti "
+"tutorial pada <a href=\"%s\" target=\"_blank\"> artikel ini</a>."
+
+#: functions/theme-functions/theme-migrations.php:501
+#: functions/theme-functions/theme-options.php:608
+msgid "Select payment confirmation page."
+msgstr "Pilih halaman yang digunakan untuk konfirmasi pembayaran."
+
+#: functions/theme-functions/theme-migrations.php:506
+msgid "Woocommerce Purchase Confirmation"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:507
+msgid ""
+"Select which Facebook Pixel event should be triggered on WooCommerce Thank "
+"You page."
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:517
+msgid "Color"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:524
+#: functions/theme-functions/theme-options.php:1438
+msgid "General Theme Color"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:527
+#: functions/theme-functions/theme-options.php:1439
+msgid "Border color, link color"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:542
+#: functions/theme-functions/theme-options.php:1447
+msgid "General Background Theme Color"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:545
+msgid "Header, buttons, discount badge, "
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:563
+msgid "Link Theme Color"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:566
+msgid "General link color"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:571
+msgid "Link Hover Theme Color"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:574
+msgid "General link hover color"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:579
+msgid "Back to top background color"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:582
+msgid "Background color for back to top button"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:587
+msgid "Back to top background hover color"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:590
+msgid "Background hover color for back to top button"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:595
+#: functions/theme-functions/theme-options.php:1521
+msgid "Form Field Background Color"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:598
+#: functions/theme-functions/theme-migrations.php:642
+#: functions/theme-functions/theme-migrations.php:650
+#: functions/theme-functions/theme-migrations.php:658
+#: functions/theme-functions/theme-migrations.php:670
+#: functions/theme-functions/theme-migrations.php:678
+#: functions/theme-functions/theme-migrations.php:686
+#: functions/theme-functions/theme-migrations.php:712
+#: functions/theme-functions/theme-migrations.php:724
+#: functions/theme-functions/theme-migrations.php:732
+#: functions/theme-functions/theme-migrations.php:740
+#: functions/theme-functions/theme-migrations.php:752
+#: functions/theme-functions/theme-migrations.php:760
+#: functions/theme-functions/theme-migrations.php:768
+#: functions/theme-functions/theme-migrations.php:776
+#: functions/theme-functions/theme-migrations.php:784
+#: functions/theme-functions/theme-migrations.php:792
+#: functions/theme-functions/theme-migrations.php:804
+#: functions/theme-functions/theme-migrations.php:812
+#: functions/theme-functions/theme-migrations.php:820
+#: functions/theme-functions/theme-migrations.php:828
+#: functions/theme-functions/theme-migrations.php:836
+#: functions/theme-functions/theme-migrations.php:844
+msgid "Pick a color"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:603
+msgid "Woocommerce Button Background Color"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:606
+msgid "Background color for add to cart, checkout buttons"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:611
+msgid "Woocommerce Price Color"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:614
+msgid "Price color"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:619
+msgid "Woocommerce Striketrough Price Color"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:622
+msgid "Color for striketrough price (usually when you applied sale price)"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:627
+msgid "Shopping Cart Icon not Empty Color"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:630
+msgid "Color for shopping cart icon not empty"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:639
+msgid "Top bar menu color"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:647
+msgid "Top bar link hover color"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:655
+msgid "Social media hover color"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:663
+msgid "Header Settings"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:667
+msgid "Main menu link hover color"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:675
+msgid "Sub menu link hover color"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:683
+msgid "Sub menu background hover color"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:695
+#: functions/theme-functions/theme-options.php:1758
+msgid "Footer Widget Background Color"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:702
+#: functions/theme-functions/theme-options.php:1778
+msgid "Footer Background Color"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:709
+msgid "Footer hover link color"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:717
+msgid "Widget Settings"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:721
+msgid "Widget footer link color"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:729
+msgid "Sidebar Widget link color"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:737
+msgid "Widget link hover color"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:745
+msgid "Blog Settings"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:749
+msgid "Page title background color"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:757
+msgid "Post meta text color"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:765
+msgid "Post meta link color"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:773
+msgid "Read More button color"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:781
+msgid "Sharing button color"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:789
+msgid "Sharing button hover color"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:797
+msgid "Contact Button Settings (Buttons on Product Detail Page)"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:801
+msgid "BBM background color"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:809
+msgid "Whatsapp background color"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:817
+msgid "SMS background color"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:825
+msgid "LINE background color"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:833
+msgid "Phone background color"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:841
+msgid "Telegram background color"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:849
+msgid "Login Page"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:853
+msgid "Logo Login Dashboard"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:856
+#: functions/theme-functions/theme-migrations.php:862
+msgid "Upload your image"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:859
+msgid "Icon Admin Dashboard"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:869
+#: functions/theme-functions/theme-options.php:1088
+#: includes/widgets/elementor/el-contact-buttons.php:380
+#: includes/widgets/elementor/el-custom-form.php:105
+#: includes/widgets/elementor/el-custom-form.php:215
+msgid "Typography"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:872
+msgid "General Typography Settings"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:876
+#: functions/theme-functions/theme-options.php:1133
+msgid "H1"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:879
+#: functions/theme-functions/theme-migrations.php:900
+#: functions/theme-functions/theme-migrations.php:921
+#: functions/theme-functions/theme-migrations.php:942
+#: functions/theme-functions/theme-migrations.php:963
+#: functions/theme-functions/theme-migrations.php:984
+#: functions/theme-functions/theme-migrations.php:1005
+#: functions/theme-functions/theme-migrations.php:1026
+#: functions/theme-functions/theme-migrations.php:1047
+#: functions/theme-functions/theme-migrations.php:1068
+#: functions/theme-functions/theme-migrations.php:1090
+#: functions/theme-functions/theme-migrations.php:1112
+#: functions/theme-functions/theme-migrations.php:1138
+#: functions/theme-functions/theme-migrations.php:1159
+#: functions/theme-functions/theme-migrations.php:1180
+#: functions/theme-functions/theme-migrations.php:1205
+#: functions/theme-functions/theme-migrations.php:1226
+msgid "Select a style"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:897
+#: functions/theme-functions/theme-options.php:1151
+msgid "H2"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:918
+#: functions/theme-functions/theme-options.php:1169
+msgid "H3"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:939
+#: functions/theme-functions/theme-options.php:1187
+msgid "H4"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:960
+#: functions/theme-functions/theme-options.php:1205
+msgid "H5"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:981
+#: functions/theme-functions/theme-options.php:1223
+msgid "H6"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1002
+#: functions/theme-functions/theme-options.php:1098
+msgid "Main Typography"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1023
+#: functions/theme-functions/theme-options.php:1116
+msgid "Site title typography"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1044
+#: functions/theme-functions/theme-options.php:1241
+msgid "Menu text typography"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1065
+#: functions/theme-functions/theme-options.php:1259
+msgid "Sub menu text typography"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1087
+#: functions/theme-functions/theme-options.php:1279
+msgid "Sub menu 2nd text typography"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1109
+#: functions/theme-functions/theme-options.php:1299
+msgid "Footer typography"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1131
+msgid "Blog Typography Settings"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1135
+msgid "Page title typography"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1156
+msgid "Post title color"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1177
+msgid "Paragraf Text"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1198
+msgid "WooCommerce Settings"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1202
+#: functions/theme-functions/theme-options.php:1389
+msgid "WooCommerce Product Title"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1223
+msgid "WooCommerce Paragraf Text"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1248
+#: functions/theme-functions/theme-options.php:948
+msgid "SMS Notification"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1251
+msgid "SMS Gateway Settings"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1255
+msgid "SMS Gateway E-mail"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1258
+msgid "email@smsgateway.me"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1261
+msgid "SMS Gateway Password"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1265
+msgid "yourpassword"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1269
+#: functions/theme-functions/theme-options.php:971
+msgid "SMS Gateway DeviceID"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1272
+msgid "526345"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1275
+#: functions/theme-functions/theme-options.php:978
+msgid "SMS Gateway Phone Number"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1278
+msgid "085613242215"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1281
+#: functions/theme-functions/theme-options.php:986
+msgid "SMS Notification for Admin"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1286
+#: functions/theme-functions/theme-options.php:1002
+msgid "New Order Alert "
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1289
+#: functions/theme-functions/theme-options.php:1003
+msgid ""
+"Ada orderan baru dengan nomor #%lakoo_order_id% di %lakoo_shop_name%. Segera "
+"proses."
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1292
+#: functions/theme-functions/theme-options.php:1009
+msgid "SMS Notification for Customer"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1297
+#: functions/theme-functions/theme-options.php:1025
+msgid "New Order Alert"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1300
+#: functions/theme-functions/theme-options.php:1033
+msgid ""
+"Order Anda #%lakoo_order_id% sudah kami terima dan akan segera kami proses. "
+"Terimakasih sudah berbelanja di %lakoo_shop_name%."
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1303
+msgid "Order processing"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1306
+msgid ""
+"%lakoo_shop_name% - Status order #%lakoo_order_id% diubah menjadi: Sedang "
+"Diproses."
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1309
+msgid "Order completed"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1312
+msgid ""
+"%lakoo_shop_name% - Status order #%lakoo_order_id% diubah menjadi: Sudah "
+"Dikirim dengan %lakoo_courier%, nomor resi: %lakoo_tracking_code%"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1315
+msgid "Order pending"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1318
+msgid "%lakoo_shop_name% - Order Anda no. #%lakoo_order_id% status: Pending."
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1321
+msgid "Order failed"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1324
+#: functions/theme-functions/theme-options.php:1055
+msgid "%lakoo_shop_name% - Order Anda no. #%lakoo_order_id% status: Gagal."
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1327
+msgid "Order refunded"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1330
+#: functions/theme-functions/theme-options.php:1062
+msgid ""
+"%lakoo_shop_name% - Order Anda no. #%lakoo_order_id% status: Refund Uang."
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1333
+msgid "Order cancelled"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1336
+#: functions/theme-functions/theme-options.php:1070
+msgid ""
+"%lakoo_shop_name% - Order Anda no. #%lakoo_order_id% status: Dibatalkan."
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1339
+msgid "Notes custom message:"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1342
+#: functions/theme-functions/theme-options.php:1077
+msgid ""
+"%lakoo_shop_name% - Catatan ditambahkan pada order #%lakoo_order_id%: "
+"%lakoo_note%"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1377
+msgid "Cepatlakoo – Pasang Plugin Redux Framework"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1378
+msgid ""
+"Silahkan melakukan instalasi plugin Redux Framework agar proses migrasi "
+"dapat dilakukan."
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1387
+msgid "Cepatlakoo – Migrasi Theme Options"
+msgstr ""
+
+#: functions/theme-functions/theme-migrations.php:1388
+msgid ""
+"Klik tombol Migrasi Sekarang untuk melakukan proses migrasi theme options."
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:178
+msgid "Member Area"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:184
+msgid "Knowledge Base"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:202
+msgid ""
+"<b>Need help?</b> Login to the member area and join our Facebook support "
+"group and watch the video tutorials. <a href=\"https://cepatlakoo.com/"
+"dashboard/\" target=\"_blank\">Click here</a>"
+msgstr ""
+"<b>Butuh bantuan?</b> Login ke member area dan gabung di group support "
+"Cepatlakoo di Facebook dan tonton video tutorial. <a href=\"https://"
+"cepatlakoo.com/dashboard/\" target=\"_blank\">Klik di sini</a>"
+
+#: functions/theme-functions/theme-options.php:207
+msgid ""
+"<p>This text is displayed above the options panel. It isn't required, but "
+"more info is always better! The intro_text field accepts all HTML.</p>"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:227
+msgid "Theme Information 1"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:228
+#: functions/theme-functions/theme-options.php:233
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:232
+msgid "Theme Information 2"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:239
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:277
+msgid "General settings for the theme."
+msgstr "Seting umum untuk theme."
+
+#: functions/theme-functions/theme-options.php:284
+msgid "Excerpt lenght on blog and archives page."
+msgstr ""
+"Jumlah kata pada teks rangkuman (excerpt) di halaman blog dan halaman arsip."
+
+#: functions/theme-functions/theme-options.php:294
+msgid "Share Buttons"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:310
+msgid "Override header layout style for all pages."
+msgstr "Pilih jenis layout header yang diinginkan."
+
+#: functions/theme-functions/theme-options.php:329
+msgid "Enable Open Graph for Post, Page and Product post type."
+msgstr ""
+"Aktifkan atau non-aktifkan fitur Open Graph pada post type Post, Page dan "
+"Product."
+
+#: functions/theme-functions/theme-options.php:336
+msgid "SEO Feature"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:337
+msgid "Enable SEO feature in Post, Page and Product post type."
+msgstr ""
+"Aktifkan atau non-aktifkan fitur SEO pada post type Post, Page dan Product"
+
+#: functions/theme-functions/theme-options.php:385
+msgid "Text label on the left hand side of the phone number on top header."
+msgstr "Teks di sebelah kiri nomor telepon pada top header."
+
+#: functions/theme-functions/theme-options.php:394
+msgid "Phone number on top header."
+msgstr "Nomor telepon pada top header."
+
+#: functions/theme-functions/theme-options.php:410
+#: functions/theme-functions/theme-options.php:1750
+#: functions/theme-functions/theme-widgets.php:56
+msgid "Footer"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:426
+msgid "Quick View"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:450
+msgid "Countdown"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:451
+msgid "Countdown settings for WooCommerce Product Detail Page."
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:461
+msgid "Kesempatan Terbatas"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:473
+msgid "Countdown on Order Received Page"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:474
+msgid "Order received page is the page after someone completing checkout."
+msgstr ""
+"Halaman order received adalah halaman setelah seseorang menyelesaikan proses "
+"checkout / pemesanan."
+
+#: functions/theme-functions/theme-options.php:480
+msgid "Countdown Timer on Order Received Page"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:486
+msgid "Select Countdown Timer"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:487
+msgid ""
+"Select the countdown timer you want to use for order-received page. Leave it "
+"empty if you don't want to display it."
+msgstr ""
+"Pilih countdown timer yang akan ditampilkan di halaman order-received. "
+"Kosongkan jika tidak ingin menampilkan countdown timer di halaman order-"
+"received."
+
+#: functions/theme-functions/theme-options.php:497
+msgid "Text Near the Countdown"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:498
+msgid ""
+"Write a text that will be displayed near the countdown timer. Support HTML "
+"tags."
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:500
+msgid "Segera Lakukan Pembayaran"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:507
+msgid "Optimization"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:508
+msgid ""
+"This feature is still experimental. Please use these settings wisely, it "
+"could break your site."
+msgstr ""
+"Fitur ini masih dalam tahap eksperimen. Harap gunakan seting ini dengan hati-"
+"hati, karena dapat menyebabkan error pada website Anda."
+
+#: functions/theme-functions/theme-options.php:523
+msgid "Remove JS & CSS Version"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:536
+msgid "Shop Settings"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:539
+msgid "Configure settings related to shopping functionality."
+msgstr "Konfigurasi seting yang berhubungan dengan toko Anda."
+
+#: functions/theme-functions/theme-options.php:545
+msgid "Disable Shoping Cart"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:546
+msgid "Disable shopping cart feature."
+msgstr "Non-aktifkan fitur keranjang belanja."
+
+#: functions/theme-functions/theme-options.php:564
+msgid "Display Product Badges"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:565
+msgid ""
+"Display additional small badges to product detail page, above product title."
+msgstr ""
+"Tampilkan tambahan badge / label kecil pada halaman produk, di atas nama "
+"produk."
+
+#: functions/theme-functions/theme-options.php:575
+msgid "Display WooCommerce Product Tabs"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:576
+msgid "Display or hide WooComerce product tabs on product page."
+msgstr ""
+"Tampilkan atau sembunyikan tabs informasi produk pada halaman produk detail."
+
+#: functions/theme-functions/theme-options.php:582
+msgid "Display Coupon Code"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:583
+msgid "Turn on or off coupon code in cart & checkout page."
+msgstr ""
+"Tampilkan atau sembunyikan fitur kupon diskon di halaman cart dan checkout."
+
+#: functions/theme-functions/theme-options.php:589
+msgid "Product Image on Checkout Page"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:590
+msgid "Display or hide product image on checkout page."
+msgstr "Tampilkan atau sembunyikan gambar produk pada halaman checkout."
+
+#: functions/theme-functions/theme-options.php:596
+msgid "Checkout Shipping Style"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:597
+msgid "Select shipping method display style on checkout page."
+msgstr "Pilih tampilan pemilihan kurir pengiriman pada halaman checkout."
+
+#: functions/theme-functions/theme-options.php:599
+msgid "Default (Radio Button)"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:600
+msgid "Dropdown Selectbox"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:607
+msgid "Select Payment Confirmation Page"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:655
+msgid "WhatsApp Message Complete"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:656
+msgid ""
+"Enter your WhatsApp message. You can use %lakoo_name%, %lakoo_order_id%, "
+"%lakoo_products%, %lakoo_shipping_cost% to display order detail. If you use "
+"CL Input Resi plugin, you can also use %lakoo_courier%, %lakoo_tracking_code"
+"%, %lakoo_tracking_date%, %lakoo_order_total% ."
+msgstr ""
+"Ketikkan teks pesan di WhatsApp. Anda dapat menggunakan kode %lakoo_name%, "
+"%lakoo_order_id%, %lakoo_products%, %lakoo_shipping_cost% untuk menampilkan "
+"detail pesanan. Jika menggunakan plugin CL Input Resi Anda juga bisa "
+"menggunakan %lakoo_courier%, %lakoo_tracking_code%, %lakoo_tracking_date%, "
+"%lakoo_order_total% "
+
+#: functions/theme-functions/theme-options.php:671
+msgid "SMS Message Complete"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:672
+msgid ""
+"Enter your SMS message. You can use %lakoo_name%, %lakoo_order_id%, "
+"%lakoo_products%, %lakoo_shipping_cost% to display order detail. If you use "
+"CL Input Resi plugin, you can also use %lakoo_courier%, %lakoo_tracking_code"
+"%, %lakoo_tracking_date%, %lakoo_order_total% ."
+msgstr ""
+"Ketikkan teks pesan di SMS. Anda dapat menggunakan kode %lakoo_name%, "
+"%lakoo_order_id%, %lakoo_products%, %lakoo_shipping_cost% untuk menampilkan "
+"detail pesanan. Jika menggunakan plugin CL Input Resi Anda juga bisa "
+"menggunakan %lakoo_courier%, %lakoo_tracking_code%, %lakoo_tracking_date%, "
+"%lakoo_order_total%"
+
+#: functions/theme-functions/theme-options.php:695
+msgid "Contact Buttons on Product Page"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:713
+msgid "This message will be displayed on top of the contact buttons."
+msgstr "Teks pesan ini akan ditampilkan di atas tombol kontak."
+
+#: functions/theme-functions/theme-options.php:721
+#: functions/theme-functions/theme-options.php:729
+msgid ""
+"This message will be displayed on popup when clicking contact buttons on "
+"desktop."
+msgstr ""
+"Pesan ini akan ditampilkan pada popup ketika klik tombol kontak pada layar "
+"desktop."
+
+#: functions/theme-functions/theme-options.php:736
+msgid "Sticky WhatsApp Button"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:737
+msgid "Make WhatsApp button sticky."
+msgstr "Buat tombol WhatsApp menjadi sticky di perangkat mobile."
+
+#: functions/theme-functions/theme-options.php:745
+msgid ""
+"Enter your WhatsApp number (example: 628596663021). Leave it blank to hide "
+"the button."
+msgstr ""
+"Masukkan nomor WhatsApp (contoh: 628596663021). Kosongkan opsi di atas untuk "
+"menyembunyikan tombol."
+
+#: functions/theme-functions/theme-options.php:752
+msgid "WhatsApp Button Text"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:753
+msgid "Text on WhatsApp button."
+msgstr "Teks pada tombol WhatsApp."
+
+#: functions/theme-functions/theme-options.php:761
+msgid ""
+"Enter your WhatsApp message. Use %lakoo_product_name% to display the product "
+"name and %lakoo_product_url% to add product url"
+msgstr ""
+"Masukkan teks yang akan dikirimkan pada SMS. Gunakan %lakoo_product_name% "
+"untuk menampilkan nama produk dan %lakoo_product_url% untuk menampilkan url "
+"produk."
+
+#: functions/theme-functions/theme-options.php:762
+#: functions/theme-functions/theme-options.php:822
+msgid "Hai, saya berminat dengan %lakoo_product_name% %lakoo_product_url%"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:786
+msgid "BBM Button Text"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:787
+msgid "Text on BBM button."
+msgstr "Text pada tombol BBM."
+
+#: functions/theme-functions/theme-options.php:812
+msgid "SMS Button Text"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:813
+msgid "Text on the SMS button."
+msgstr "Teks pada tombol SMS."
+
+#: functions/theme-functions/theme-options.php:821
+msgid ""
+"Enter your SMS Message display. Use %lakoo_product_name% to display the "
+"product name and %lakoo_product_url% to add product url."
+msgstr ""
+"Masukkan teks yang akan dikirimkan pada SMS. Gunakan %lakoo_product_name% "
+"untuk menampilkan nama produk dan %lakoo_product_url% untuk menampilkan url "
+"produk."
+
+#: functions/theme-functions/theme-options.php:838
+msgid "LINE"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:839
+msgid "Enter your LINE ID. Leave it blank to hide the button."
+msgstr ""
+"Masukkan LINE ID Anda. Kosongkan opsi di atas untuk menyembunyikan tombol."
+
+#: functions/theme-functions/theme-options.php:846
+msgid "LINE Button Text"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:847
+msgid "Text on LINE button."
+msgstr "Teks pada tombol LINE."
+
+#: functions/theme-functions/theme-options.php:854
+msgid "LINE FB Ads Event"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:872
+msgid "Phone Button Text"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:873
+msgid "Text on phone button."
+msgstr "Teks pada tombol telepon."
+
+#: functions/theme-functions/theme-options.php:898
+msgid "Telegram Button Text"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:899
+msgid "Text on Telegram button."
+msgstr "Teks pada tombol Telegram."
+
+#: functions/theme-functions/theme-options.php:921
+msgid "Configure settings related to Facebook pixel."
+msgstr "Konfigurasi seting yang berhubungan dengan Facebook pixel."
+
+#: functions/theme-functions/theme-options.php:934
+msgid "WooCommerce Purchase Confirmation"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:937
+msgid ""
+"Select pixel event for payment confirmed using automatic payment gateway ."
+msgstr ""
+"Pilih event pixel ketika pembayaran selesai dilakukan menggunakan payment "
+"gateway otomatis seperti PayPal."
+
+#: functions/theme-functions/theme-options.php:951
+msgid ""
+"Configure settings related WooCommerce SMS Notification using smsgateway.me "
+"service."
+msgstr ""
+"Konfigurasi seting yang berhubungan dengan notifikasi SMS pada WooCommerce "
+"menggunakan layanan smsgateway.me."
+
+#: functions/theme-functions/theme-options.php:957
+msgid "PERHATIAN"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:959
+msgid ""
+"Pastikan Anda sudah memiliki akun <a href=\"https://smsgateway.me\" target="
+"\"_blank\">smsgateway.me</a> dan sudah menginstal aplikasi <a href=\"https://"
+"play.google.com/store/apps/details?id=networked.solutions.sms.gateway."
+"api&hl=en\" target=\"_blank\">SMS Gateway API</a> di handphone Android Anda."
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:964
+msgid "SMS Gateway API Token"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:965
+#, php-format
+msgid "Enter smsgateway.me website API token. You can get it from %s ."
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:972
+msgid "Your device ID registered to smsgateway.me, for example: 526345."
+msgstr "Device ID Anda yang terdaftar di smsgateway.me."
+
+#: functions/theme-functions/theme-options.php:979
+msgid ""
+"Your phone number which you have install smsgateway.me Android app. For "
+"example: 085613242215."
+msgstr ""
+"Nomor telepon Anda yang sudah terinstal aplikasi Android smsgateway.me."
+
+#: functions/theme-functions/theme-options.php:987
+msgid "Set notification message for admin"
+msgstr "Notifkasi SMS untuk admin"
+
+#: functions/theme-functions/theme-options.php:995
+#: functions/theme-functions/theme-options.php:1018
+msgid "Gunakan Shortcode Ini Untuk Merangkai Pesan"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:996
+msgid ""
+"<br /> <strong>%lakoo_order_id%</strong> : Nomor Pemesanan <br /> <strong>"
+"%lakoo_order_status%</strong> : Status Pemesanan <br /> <strong>"
+"%lakoo_shop_name%</strong> : Nama Toko"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1010
+msgid "Set notification message for your customer"
+msgstr "Set pesan notifikasi untuk kustomer Anda"
+
+#: functions/theme-functions/theme-options.php:1019
+msgid ""
+"<br /> <strong>%lakoo_order_id%</strong> : Nomor Pemesanan <br /> <strong>"
+"%lakoo_order_status%</strong> : Status Pemesanan <br /> <strong>"
+"%lakoo_shop_name%</strong> : Nama Toko <br /> <strong>%lakoo_fullname%</"
+"strong> : Nama Lengkap Buyer <br /> </br> <strong>%lakoo_email%</strong> : "
+"Email Buyer <br /> <strong>%lakoo_phone_number%</strong> : Nomor Telepon "
+"Buyer <br /> <strong>%lakoo_shipping_price%</strong> : Biaya Ongkos Kirim "
+"<br /> <strong>%lakoo_total_price%</strong> : Total Harga Pemesanan <br /> "
+"<strong>%lakoo_tracking_code%</strong> : Kode Resi <br /> <strong>"
+"%lakoo_tracking_date%</strong> : Tanggal Pengiriman <br /> <strong>"
+"%lakoo_courier%</strong> : Nama Ekspedisi <br /> <strong>%lakoo_payment_code"
+"%</strong> : Kode Pembayaran"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1026
+msgid ""
+"Order Anda #%lakoo_order_id% sudah kami terima mohon segera melakukan "
+"pembayaran. Terimakasih sudah berbelanja di %lakoo_shop_name%."
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1032
+msgid "Order is Being Processed"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1039
+#: functions/theme-functions/theme-woocommerce.php:1232
+msgid "Order Completed"
+msgstr "Pesanan Selesai"
+
+#: functions/theme-functions/theme-options.php:1040
+msgid ""
+"%lakoo_shop_name% - Status order #%lakoo_order_id% diubah menjadi: Sudah "
+"Dikirim dengan %lakoo_courier%, tgl: %lakoo_tracking_date%, nomor resi: "
+"%lakoo_tracking_code%"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1047
+msgid "Order is Pending Payment"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1048
+msgid ""
+"%lakoo_shop_name% - Order Anda no. #%lakoo_order_id% status: Pending Payment."
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1054
+msgid "Order Failed"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1061
+msgid "Order Refunded"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1069
+msgid "Order Cancelled"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1076
+msgid "When a Note for Customer Added to Order"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1078
+msgid "You can use this code to display the note message: %lakoo_note%"
+msgstr ""
+"Anda juga dapat menggunakan kode ini untuk menampilkan teks pada Notes: "
+"%lakoo_note%"
+
+#: functions/theme-functions/theme-options.php:1091
+msgid "Configure settings related typograhy."
+msgstr "Konfigurasi seting yang berhubungan dengan tipografi."
+
+#: functions/theme-functions/theme-options.php:1319
+#: functions/theme-functions/theme-options.php:1842
+msgid "Blog"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1327
+msgid "Page Title"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1345
+msgid "Post Title"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1363
+msgid "Paragraph Text"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1381
+#: functions/theme-functions/theme-options.php:1542
+msgid "WooCommerce"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1407
+msgid "WooCommerce Paragraph Text"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1429
+msgid "Colors"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1432
+msgid "Configure settings related to colors."
+msgstr "Konfigurasi seting yang berhubungan dengan warna."
+
+#: functions/theme-functions/theme-options.php:1448
+msgid "Background color for header and most part of the theme."
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1469
+msgid "General Link Color"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1481
+msgid "Back to Top Background Color"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1501
+msgid "Back to Top Background Hover Color"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1543
+msgid "WooCommerce color settings."
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1550
+msgid "WooCommerce Button Background Color"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1571
+msgid "WooCommerce Price Color"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1580
+msgid "WooCommerce Striketrough Price Color"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1592
+msgid "Shopping Cart Empty Color"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1601
+msgid "Shopping Cart Not Empty Color"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1610
+msgid "Discount Badge Background Color"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1631
+msgid "Discount Badge Text Color"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1649
+msgid "Top Bar Text Color"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1657
+msgid "Top Bar Link Color"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1670
+msgid "Header"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1678
+msgid "Header Text Color"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1686
+msgid "Main Menu Link Color"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1698
+msgid "Sub Menu Link Hover Color"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1710
+msgid "Sub Menu Hover Background Color"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1730
+msgid "Empty Cart Icon Color"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1740
+msgid "Not Empty Cart Icon Color"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1798
+msgid "Footer Link Color"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1810
+msgid "Widgets"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1818
+msgid "Widget Footer Link Color"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1830
+msgid "Sidebar Widget Link Color"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1850
+msgid "Page Title Background Color"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1870
+msgid "Post Title Link Color"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1882
+msgid "Post Meta Text Color"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1892
+msgid "Post Meta Link Color"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1904
+msgid "Read More Button Color"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1916
+msgid "Share Buttons Color"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1936
+msgid "BBM Background Color"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1957
+msgid "WhatsApp Background Color"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1978
+msgid "SMS Background Color"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:1999
+msgid "LINE Background Color"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:2020
+msgid "Phone Background Color"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:2041
+msgid "Telegram Background Color"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:2064
+msgid "Documentation"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:2179
+msgid "Section via hook"
+msgstr ""
+
+#: functions/theme-functions/theme-options.php:2180
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: functions/theme-functions/theme-post-type.php:14
+#: functions/theme-functions/theme-post-type.php:15
+msgid "Slideshow"
+msgstr ""
+
+#: functions/theme-functions/theme-post-type.php:16
+#: functions/theme-functions/theme-post-type.php:52
+msgid "Add New"
+msgstr ""
+
+#: functions/theme-functions/theme-post-type.php:17
+msgid "Add New Slideshow"
+msgstr ""
+
+#: functions/theme-functions/theme-post-type.php:18
+msgid "Edit Slideshow"
+msgstr ""
+
+#: functions/theme-functions/theme-post-type.php:19
+msgid "New Slideshow"
+msgstr ""
+
+#: functions/theme-functions/theme-post-type.php:20
+msgid "View Slideshow"
+msgstr ""
+
+#: functions/theme-functions/theme-post-type.php:21
+msgid "Search Slideshow"
+msgstr ""
+
+#: functions/theme-functions/theme-post-type.php:22
+#: functions/theme-functions/theme-post-type.php:58
+msgid "Nothing found"
+msgstr ""
+
+#: functions/theme-functions/theme-post-type.php:23
+#: functions/theme-functions/theme-post-type.php:59
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: functions/theme-functions/theme-post-type.php:53
+msgid "Add New Countdown Timer"
+msgstr ""
+
+#: functions/theme-functions/theme-post-type.php:54
+msgid "Edit Countdown Timer"
+msgstr ""
+
+#: functions/theme-functions/theme-post-type.php:55
+msgid "New Countdown Timer"
+msgstr ""
+
+#: functions/theme-functions/theme-post-type.php:56
+msgid "View Countdown Timer"
+msgstr ""
+
+#: functions/theme-functions/theme-post-type.php:57
+msgid "Search Countdown Timer"
+msgstr ""
+
+#: functions/theme-functions/theme-post-type.php:89
+msgid "Author"
+msgstr ""
+
+#: functions/theme-functions/theme-post-type.php:158
+msgid "Thumbnail"
+msgstr ""
+
+#: functions/theme-functions/theme-shortcode.php:215
+msgid "Please choose a slideshow first."
+msgstr ""
+
+#: functions/theme-functions/theme-shortcode.php:296
+msgid "Slideshow carousel empty."
+msgstr ""
+
+#: functions/theme-functions/theme-shortcode.php:298
+msgid "Slideshow full width empty."
+msgstr ""
+
+#: functions/theme-functions/theme-shortcode.php:306
+msgid "Slideshow not found."
+msgstr ""
+
+#: functions/theme-functions/theme-styles.php:41
+msgid "Navigation"
+msgstr ""
+
+#: functions/theme-functions/theme-styles.php:42
+msgid "Login"
+msgstr ""
+
+#: functions/theme-functions/theme-styles.php:43
+msgid "Register"
+msgstr "Mendaftar"
+
+#: functions/theme-functions/theme-styles.php:44
+msgid "Filter"
+msgstr ""
+
+#: functions/theme-functions/theme-styles.php:155
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions/theme-functions/theme-support.php:19
+msgid "Main Menu Navigation"
+msgstr ""
+
+#: functions/theme-functions/theme-support.php:20
+msgid "Footer Menu Navigation"
+msgstr ""
+
+#: functions/theme-functions/theme-widgets.php:14
+msgid "Sidebar"
+msgstr ""
+
+#: functions/theme-functions/theme-widgets.php:16
+msgid "Widgets will be displayed default widget in right sidebar."
+msgstr ""
+
+#: functions/theme-functions/theme-widgets.php:28
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: functions/theme-functions/theme-widgets.php:30
+msgid "Widgets will be displayed woocommerce widget in left sidebar."
+msgstr ""
+
+#: functions/theme-functions/theme-widgets.php:42
+msgid "WooCommerce Detail Sidebar"
+msgstr ""
+
+#: functions/theme-functions/theme-widgets.php:44
+msgid "Widgets will be displayed woocommerce detail widget in right sidebar."
+msgstr ""
+
+#: functions/theme-functions/theme-widgets.php:58
+msgid "Widgets will be displayed default widget in footer."
+msgstr ""
+
+#: functions/theme-functions/theme-woocommerce.php:139
+msgid "Type search product and hit enter..."
+msgstr ""
+
+#: functions/theme-functions/theme-woocommerce.php:170
+#: functions/theme-functions/theme-woocommerce.php:241
+#, php-format
+msgid " %d items"
+msgid_plural " %d items"
+msgstr[0] ""
+
+#: functions/theme-functions/theme-woocommerce.php:175
+#: functions/theme-functions/theme-woocommerce.php:246
+#, php-format
+msgid " %d item"
+msgid_plural " %d item"
+msgstr[0] " %d produk"
+
+#: functions/theme-functions/theme-woocommerce.php:199
+#: functions/theme-functions/theme-woocommerce.php:275
+#, php-format
+msgid " %d items in the bag"
+msgid_plural " %d items in the bag"
+msgstr[0] " %d produk di keranjang"
+
+#: functions/theme-functions/theme-woocommerce.php:201
+#: functions/theme-functions/theme-woocommerce.php:277
+#, php-format
+msgid " %d item in the bag"
+msgid_plural " %d item in the bag"
+msgstr[0] " %d di keranjang"
+
+#: functions/theme-functions/theme-woocommerce.php:207
+#: functions/theme-functions/theme-woocommerce.php:282
+msgid "View Cart"
+msgstr "Lihat Keranjang Belanja"
+
+#: functions/theme-functions/theme-woocommerce.php:208
+#: functions/theme-functions/theme-woocommerce.php:283
+#: functions/theme-functions/theme-woocommerce.php:1226
+msgid "Checkout"
+msgstr "Konfirmasi Pesanan"
+
+#: functions/theme-functions/theme-woocommerce.php:450
+msgid "Shop now"
+msgstr ""
+
+#: functions/theme-functions/theme-woocommerce.php:482
+msgid "View Full Details"
+msgstr ""
+
+#: functions/theme-functions/theme-woocommerce.php:681
+msgid "Buy Product"
+msgstr "Beli produk"
+
+#: functions/theme-functions/theme-woocommerce.php:711
+msgid "Quick view product"
+msgstr ""
+
+#: functions/theme-functions/theme-woocommerce.php:711
+msgid "Quick view"
+msgstr ""
+
+#: functions/theme-functions/theme-woocommerce.php:732
+msgid "Google Plus Share"
+msgstr ""
+
+#: functions/theme-functions/theme-woocommerce.php:1221
+msgid "Confirm your ordered items"
+msgstr "Konfirmasi pesanan"
+
+#: functions/theme-functions/theme-woocommerce.php:1227
+msgid "Enter billing information"
+msgstr "Masukkan informasi tagihan"
+
+#: functions/theme-functions/theme-woocommerce.php:1233
+msgid "Your order is completed"
+msgstr "Pesanan selesai diproses"
+
+#: functions/theme-functions/theme-woocommerce.php:1405
+#: includes/sms-gateway.php:48 includes/sms-gateway.php:208
+#: includes/sms-gateway.php:263
+msgid "Pending"
+msgstr ""
+
+#: functions/theme-functions/theme-woocommerce.php:1406
+#: includes/sms-gateway.php:49 includes/sms-gateway.php:209
+#: includes/sms-gateway.php:264
+msgid "Processing"
+msgstr ""
+
+#: functions/theme-functions/theme-woocommerce.php:1407
+#: includes/sms-gateway.php:50 includes/sms-gateway.php:210
+#: includes/sms-gateway.php:265
+msgid "On Hold"
+msgstr ""
+
+#: functions/theme-functions/theme-woocommerce.php:1408
+#: functions/theme-functions/theme-woocommerce.php:1421
+#: includes/sms-gateway.php:51 includes/sms-gateway.php:211
+#: includes/sms-gateway.php:266
+msgid "Completed"
+msgstr ""
+
+#: functions/theme-functions/theme-woocommerce.php:1409
+#: includes/sms-gateway.php:52 includes/sms-gateway.php:212
+#: includes/sms-gateway.php:267
+msgid "Cancelled"
+msgstr ""
+
+#: functions/theme-functions/theme-woocommerce.php:1410
+#: includes/sms-gateway.php:53 includes/sms-gateway.php:213
+#: includes/sms-gateway.php:268
+msgid "Refunded"
+msgstr ""
+
+#: functions/theme-functions/theme-woocommerce.php:1411
+#: includes/sms-gateway.php:54 includes/sms-gateway.php:214
+#: includes/sms-gateway.php:269
+msgid "Failed"
+msgstr ""
+
+#: functions/theme-functions/theme-woocommerce.php:1478
+#: includes/widgets/elementor/el-contact-buttons.php:38
+msgid "WhatsApp"
+msgstr ""
+
+#: functions/theme-functions/theme-woocommerce.php:1512
+#: functions/theme-functions/theme-woocommerce.php:1605
+msgid "Confirm Payment"
+msgstr "Konfirmasi Pembayaran"
+
+#: includes/CMB2/example-functions.php:117
+msgid "Test Metabox"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:130
+#: includes/CMB2/example-functions.php:459
+msgid "Test Text"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:131
+#: includes/CMB2/example-functions.php:144
+#: includes/CMB2/example-functions.php:157
+#: includes/CMB2/example-functions.php:164
+#: includes/CMB2/example-functions.php:177
+#: includes/CMB2/example-functions.php:185
+#: includes/CMB2/example-functions.php:194
+#: includes/CMB2/example-functions.php:202
+#: includes/CMB2/example-functions.php:217
+#: includes/CMB2/example-functions.php:225
+#: includes/CMB2/example-functions.php:233
+#: includes/CMB2/example-functions.php:250
+#: includes/CMB2/example-functions.php:259
+#: includes/CMB2/example-functions.php:275
+#: includes/CMB2/example-functions.php:282
+#: includes/CMB2/example-functions.php:289
+#: includes/CMB2/example-functions.php:303
+#: includes/CMB2/example-functions.php:316
+#: includes/CMB2/example-functions.php:329
+#: includes/CMB2/example-functions.php:341
+#: includes/CMB2/example-functions.php:350
+#: includes/CMB2/example-functions.php:358
+#: includes/CMB2/example-functions.php:367
+#: includes/CMB2/example-functions.php:374
+#: includes/CMB2/example-functions.php:388
+#: includes/CMB2/example-functions.php:460
+#: includes/CMB2/example-functions.php:551
+#: includes/CMB2/example-functions.php:559
+#: includes/CMB2/example-functions.php:566
+#: includes/CMB2/example-functions.php:573
+#: includes/CMB2/example-functions.php:580
+#: includes/CMB2/example-functions.php:587
+#: includes/CMB2/example-functions.php:594
+#: includes/CMB2/example-functions.php:621
+#: includes/CMB2/example-functions.php:629
+#: includes/CMB2/example-functions.php:636
+#: includes/CMB2/example-functions.php:682
+msgid "field description (optional)"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:143
+msgid "Test Text Small"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:156
+msgid "Test Text Medium"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:163
+msgid "Read-only Disabled Field"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:167
+msgid "Hey there, I'm a read-only field"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:176
+msgid "Custom Rendered Field"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:184
+msgid "Website URL"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:193
+msgid "Test Text Email"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:201
+msgid "Test Time"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:209
+#: includes/CMB2/example-functions.php:210
+msgid "Time zone"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:216
+msgid "Test Date Picker"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:224
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:232
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:249
+msgid "Test Money"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:258
+msgid "Test Color Picker"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:274
+msgid "Test Text Area"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:281
+msgid "Test Text Area Small"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:288
+msgid "Test Text Area for Code"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:295
+msgid "Test Title Weeeee"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:296
+msgid "This is a title description"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:302
+msgid "Test Select"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:308
+#: includes/CMB2/example-functions.php:321
+#: includes/CMB2/example-functions.php:333
+msgid "Option One"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:309
+#: includes/CMB2/example-functions.php:322
+#: includes/CMB2/example-functions.php:334
+msgid "Option Two"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:310
+#: includes/CMB2/example-functions.php:323
+#: includes/CMB2/example-functions.php:335
+msgid "Option Three"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:315
+msgid "Test Radio inline"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:328
+msgid "Test Radio"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:340
+msgid "Test Taxonomy Radio"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:349
+msgid "Test Taxonomy Select"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:357
+msgid "Test Taxonomy Multi Checkbox"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:366
+msgid "Test Checkbox"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:373
+msgid "Test Multi Checkbox"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:379
+msgid "Check One"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:380
+msgid "Check Two"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:381
+msgid "Check Three"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:387
+msgid "Test wysiwyg"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:397
+msgid "Test Image"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:398
+msgid "Upload an image or enter a URL."
+msgstr ""
+
+#: includes/CMB2/example-functions.php:404
+msgid "Multiple Files"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:405
+msgid "Upload or add multiple images/attachments."
+msgstr ""
+
+#: includes/CMB2/example-functions.php:412
+msgid "oEmbed"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:415
+#, php-format
+msgid ""
+"Enter a youtube, twitter, or instagram URL. Supports services listed at %s."
+msgstr ""
+
+#: includes/CMB2/example-functions.php:448
+msgid "About Page Metabox"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:479
+msgid "Repeating Field Group"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:487
+msgid "Generates reusable form entries"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:489
+msgid "Entry {#}"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:490
+msgid "Add Another Entry"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:491
+msgid "Remove Entry"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:504
+msgid "Entry Title"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:512
+msgid "Write a short description for this entry"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:518
+msgid "Entry Image"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:524
+msgid "Image Caption"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:543
+msgid "User Profile Metabox"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:550
+#: includes/CMB2/example-functions.php:620
+msgid "Extra Info"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:558
+msgid "Avatar"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:565
+msgid "Facebook URL"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:572
+msgid "Twitter URL"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:579
+msgid "Google+ URL"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:586
+msgid "Linkedin URL"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:593
+msgid "User Field"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:613
+msgid "Category Metabox"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:628
+msgid "Term Image"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:635
+msgid "Arbitrary Term Field"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:681
+msgid "Site Background Color"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:718
+#, php-format
+msgid "%s &mdash; Updated!"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:752
+msgid "REST Test Box"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:761
+msgid "REST Test Text"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:762
+msgid "Will show in the REST API for this box and for pages."
+msgstr ""
+
+#: includes/CMB2/example-functions.php:768
+msgid "REST Editable Test Text"
+msgstr ""
+
+#: includes/CMB2/example-functions.php:769
+msgid "Will show in REST API \"editable\" contexts only (`POST` requests)."
+msgstr ""
+
+#: includes/CMB2/includes/CMB2.php:176
+msgid "Metabox configuration is required to have an ID parameter."
+msgstr ""
+
+#: includes/CMB2/includes/CMB2.php:578
+msgid "Click to toggle"
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_Ajax.php:75
+msgid "Please Try Again"
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_Ajax.php:181
+msgid "Remove Embed"
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_Ajax.php:189
+#: includes/CMB2/includes/helper-functions.php:105
+#, php-format
+msgid "No oEmbed Results Found for %1$s. View more info at %2$s."
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_Base.php:422
+#, php-format
+msgid ""
+"The \"%1$s\" field parameter has been deprecated in favor of the \"%1$s\" "
+"parameter."
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_Base.php:426
+#, php-format
+msgid ""
+"Using the \"%1$s\" field parameter as a callback has been deprecated in "
+"favor of the \"%1$s\" parameter."
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_Base.php:456
+#, php-format
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s! %3$s"
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_Base.php:458
+#, php-format
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s with no alternative available."
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_Base.php:491
+#: includes/CMB2/includes/CMB2_Hookup_Base.php:100
+#: includes/CMB2/includes/CMB2_Options_Hookup.php:286
+#: includes/CMB2/includes/types/CMB2_Type_Base.php:149
+#, php-format
+msgid "Invalid %1$s property: %2$s"
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_Base.php:506
+#: includes/CMB2/includes/types/CMB2_Type_Base.php:133
+#, php-format
+msgid "Invalid %1$s method: %2$s"
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_Field.php:1211
+msgid "Add Group"
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_Field.php:1212
+msgid "Remove Group"
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_Field.php:1243
+#: includes/CMB2/includes/CMB2_Field.php:1247
+msgid "None"
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_Field.php:1358
+msgid "Sorry, this field does not have a cmb_id specified."
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_Field_Display.php:432
+#: includes/CMB2/includes/CMB2_JS.php:204
+#: includes/CMB2/includes/types/CMB2_Type_File_Base.php:78
+msgid "File:"
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_Hookup_Base.php:42
+#, php-format
+msgid "%1$s should be implemented by the extended class."
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_JS.php:143
+#: includes/CMB2/includes/CMB2_JS.php:184
+msgid "Clear"
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_JS.php:145
+msgid "Select Color"
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_JS.php:146
+msgid "Current Color"
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_JS.php:174
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_JS.php:175
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_JS.php:176
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_JS.php:177
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_JS.php:178
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_JS.php:179
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_JS.php:180
+msgid "Next"
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_JS.php:181
+msgid "Prev"
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_JS.php:182
+msgid "Today"
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_JS.php:183
+#: includes/CMB2/includes/CMB2_JS.php:193
+msgid "Done"
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_JS.php:187
+msgid "Choose Time"
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_JS.php:188
+msgid "Time"
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_JS.php:192
+msgid "Now"
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_JS.php:194
+msgctxt ""
+"Valid formatting string, as per http://trentrichardson.com/examples/"
+"timepicker/"
+msgid "hh:mm TT"
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_JS.php:200
+msgid "Use this file"
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_JS.php:201
+msgid "Use these files"
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_JS.php:203
+#: includes/CMB2/includes/CMB2_Types.php:412
+#: includes/CMB2/includes/types/CMB2_Type_File_Base.php:83
+msgid "Remove"
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_JS.php:205
+#: includes/CMB2/includes/types/CMB2_Type_File_Base.php:81
+msgid "Download"
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_JS.php:206
+msgid "Select / Deselect All"
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_Options_Hookup.php:126
+msgid "Nothing to update."
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_Options_Hookup.php:130
+msgid "Settings updated."
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_Types.php:231
+msgid "Custom CMB2 field type classes must extend CMB2_Type_Base."
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_Types.php:349
+msgid "Add Row"
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_Types.php:412
+msgid "Remove Row"
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_hookup.php:181
+msgid ""
+"Term Metadata is a WordPress 4.4+ feature. Please upgrade your WordPress "
+"install."
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_hookup.php:185
+msgid "Term metaboxes configuration requires a \"taxonomies\" parameter."
+msgstr ""
+
+#: includes/CMB2/includes/CMB2_hookup.php:458
+#, php-format
+msgid "Toggle panel: %s"
+msgstr ""
+
+#: includes/CMB2/includes/helper-functions.php:303
+msgid "Save"
+msgstr ""
+
+#: includes/CMB2/includes/rest-api/CMB2_REST_Controller.php:257
+msgid "This box does not have read permissions."
+msgstr ""
+
+#: includes/CMB2/includes/rest-api/CMB2_REST_Controller.php:277
+msgid "This box does not have write permissions."
+msgstr ""
+
+#: includes/CMB2/includes/rest-api/CMB2_REST_Controller.php:300
+msgid ""
+"No box found by that id. A box needs to be registered with the \"show_in_rest"
+"\" parameter configured."
+msgstr ""
+
+#: includes/CMB2/includes/rest-api/CMB2_REST_Controller.php:378
+msgid "A human-readable description of the object."
+msgstr ""
+
+#: includes/CMB2/includes/rest-api/CMB2_REST_Controller.php:385
+msgid "The id for the object."
+msgstr ""
+
+#: includes/CMB2/includes/rest-api/CMB2_REST_Controller.php:392
+msgid "The title for the object."
+msgstr ""
+
+#: includes/CMB2/includes/rest-api/CMB2_REST_Controller_Boxes.php:51
+msgid "Includes the registered fields for the box in the response."
+msgstr ""
+
+#: includes/CMB2/includes/rest-api/CMB2_REST_Controller_Boxes.php:72
+msgid ""
+"Includes the fully rendered attributes, 'form_open', 'form_close', as well "
+"as the enqueued 'js_dependencies' script handles, and 'css_dependencies' "
+"stylesheet handles."
+msgstr ""
+
+#: includes/CMB2/includes/rest-api/CMB2_REST_Controller_Boxes.php:122
+msgid "No boxes found."
+msgstr ""
+
+#: includes/CMB2/includes/rest-api/CMB2_REST_Controller_Fields.php:27
+msgid ""
+"Includes the box object which the fields are registered to in the response."
+msgstr ""
+
+#: includes/CMB2/includes/rest-api/CMB2_REST_Controller_Fields.php:30
+msgid ""
+"When the '_rendered' argument is passed, the renderable field attributes "
+"will be returned fully rendered. By default, the names of the callback "
+"handers for the renderable attributes will be returned."
+msgstr ""
+
+#: includes/CMB2/includes/rest-api/CMB2_REST_Controller_Fields.php:33
+#: includes/CMB2/includes/rest-api/CMB2_REST_Controller_Fields.php:36
+msgid ""
+"To view or modify the field's value, the 'object_id' and 'object_type' "
+"arguments are required."
+msgstr ""
+
+#: includes/CMB2/includes/rest-api/CMB2_REST_Controller_Fields.php:236
+msgid ""
+"CMB2 Field value cannot be updated without the value parameter specified."
+msgstr ""
+
+#: includes/CMB2/includes/rest-api/CMB2_REST_Controller_Fields.php:297
+msgid ""
+"CMB2 Field value cannot be modified without the object_id and object_type "
+"parameters specified."
+msgstr ""
+
+#: includes/CMB2/includes/rest-api/CMB2_REST_Controller_Fields.php:312
+#: includes/CMB2/includes/rest-api/CMB2_REST_Controller_Fields.php:341
+msgid "No field found by that id."
+msgstr ""
+
+#: includes/CMB2/includes/rest-api/CMB2_REST_Controller_Fields.php:415
+#, php-format
+msgid "Value Error for %s"
+msgstr ""
+
+#: includes/CMB2/includes/shim/WP_REST_Controller.php:25
+#, php-format
+msgid "Method '%s' must be overridden."
+msgstr ""
+
+#: includes/CMB2/includes/shim/WP_REST_Controller.php:35
+#: includes/CMB2/includes/shim/WP_REST_Controller.php:47
+#: includes/CMB2/includes/shim/WP_REST_Controller.php:59
+#: includes/CMB2/includes/shim/WP_REST_Controller.php:71
+#: includes/CMB2/includes/shim/WP_REST_Controller.php:83
+#: includes/CMB2/includes/shim/WP_REST_Controller.php:95
+#: includes/CMB2/includes/shim/WP_REST_Controller.php:107
+#: includes/CMB2/includes/shim/WP_REST_Controller.php:119
+#: includes/CMB2/includes/shim/WP_REST_Controller.php:131
+#: includes/CMB2/includes/shim/WP_REST_Controller.php:143
+#: includes/CMB2/includes/shim/WP_REST_Controller.php:155
+#: includes/CMB2/includes/shim/WP_REST_Controller.php:168
+#, php-format
+msgid "Method '%s' not implemented. Must be overridden in subclass."
+msgstr ""
+
+#: includes/CMB2/includes/shim/WP_REST_Controller.php:273
+msgid "Current page of the collection."
+msgstr ""
+
+#: includes/CMB2/includes/shim/WP_REST_Controller.php:281
+msgid "Maximum number of items to be returned in result set."
+msgstr ""
+
+#: includes/CMB2/includes/shim/WP_REST_Controller.php:290
+msgid "Limit results to those matching a string."
+msgstr ""
+
+#: includes/CMB2/includes/shim/WP_REST_Controller.php:308
+msgid ""
+"Scope under which the request is made; determines fields present in response."
+msgstr ""
+
+#: includes/CMB2/includes/types/CMB2_Type_File.php:76
+msgid "Add or Upload File"
+msgstr ""
+
+#: includes/CMB2/includes/types/CMB2_Type_File_List.php:41
+msgid "Add or Upload Files"
+msgstr ""
+
+#: includes/CMB2/includes/types/CMB2_Type_Taxonomy_Base.php:99
+msgid "No terms"
+msgstr ""
+
+#: includes/widgets/cepatlakoo-recent-comments.php:23
+msgid "Display recent comments with avatar."
+msgstr ""
+
+#: includes/widgets/cepatlakoo-recent-comments.php:26
+msgid "CepatLakoo - Recent Comments"
+msgstr "CepatLakoo - Komentar terbaru"
+
+#: includes/widgets/cepatlakoo-recent-comments.php:34
+#: includes/widgets/cepatlakoo-recent-comments.php:84
+msgid "Recent Comments"
+msgstr ""
+
+#: includes/widgets/cepatlakoo-recent-comments.php:87
+#: includes/widgets/cepatlakoo-recent-posts.php:88
+msgid "Widget Title:"
+msgstr ""
+
+#: includes/widgets/cepatlakoo-recent-comments.php:91
+msgid "Number of comments to show:"
+msgstr ""
+
+#: includes/widgets/cepatlakoo-recent-comments.php:95
+msgid "Comments Excerpt Limiter"
+msgstr ""
+
+#: includes/widgets/cepatlakoo-recent-comments.php:97
+msgid ""
+"The comment excerpt in the first comment will be trim after reaching the "
+"number of characters defined."
+msgstr ""
+
+#: includes/widgets/cepatlakoo-recent-posts.php:23
+msgid "Display recent posts with thumbnails."
+msgstr ""
+
+#: includes/widgets/cepatlakoo-recent-posts.php:26
+msgid "CepatLakoo - Recent Posts"
+msgstr "CepatLakoo - Pos terbaru"
+
+#: includes/widgets/cepatlakoo-recent-posts.php:34
+#: includes/widgets/cepatlakoo-recent-posts.php:85
+msgid "Recent Posts"
+msgstr ""
+
+#: includes/widgets/cepatlakoo-recent-posts.php:92
+msgid "Number of posts to show:"
+msgstr ""
+
+#: includes/widgets/cepatlakoo-recent-posts.php:96
+msgid "Post Title Limiter"
+msgstr ""
+
+#: includes/widgets/cepatlakoo-recent-posts.php:98
+msgid ""
+"The post title will be trim after reaching the number of characters defined."
+msgstr ""
+
+#: includes/widgets/elementor/el-bank-logo.php:13
+#: includes/widgets/elementor/el-bank-logo.php:26
+msgid "CL - Bank Logo"
+msgstr ""
+
+#: includes/widgets/elementor/el-bank-logo.php:33
+msgid "Bank Name"
+msgstr "Nama Bank"
+
+#: includes/widgets/elementor/el-bank-logo.php:37
+msgid "Bank BJB"
+msgstr "Bank BJB"
+
+#: includes/widgets/elementor/el-bank-logo.php:38
+msgid "Bank DKI"
+msgstr ""
+
+#: includes/widgets/elementor/el-bank-logo.php:39
+msgid "BCA"
+msgstr ""
+
+#: includes/widgets/elementor/el-bank-logo.php:40
+msgid "BCA Syariah"
+msgstr ""
+
+#: includes/widgets/elementor/el-bank-logo.php:41
+msgid "BNI"
+msgstr ""
+
+#: includes/widgets/elementor/el-bank-logo.php:42
+msgid "BNI Syariah"
+msgstr ""
+
+#: includes/widgets/elementor/el-bank-logo.php:43
+msgid "BRI"
+msgstr ""
+
+#: includes/widgets/elementor/el-bank-logo.php:44
+msgid "BRI Syariah"
+msgstr ""
+
+#: includes/widgets/elementor/el-bank-logo.php:45
+msgid "BTN"
+msgstr ""
+
+#: includes/widgets/elementor/el-bank-logo.php:46
+msgid "CIMB Niaga"
+msgstr ""
+
+#: includes/widgets/elementor/el-bank-logo.php:47
+msgid "DANAMON"
+msgstr ""
+
+#: includes/widgets/elementor/el-bank-logo.php:48
+msgid "Mandiri"
+msgstr ""
+
+#: includes/widgets/elementor/el-bank-logo.php:49
+msgid "Mandiri Syariah"
+msgstr ""
+
+#: includes/widgets/elementor/el-bank-logo.php:50
+msgid "Maybank"
+msgstr ""
+
+#: includes/widgets/elementor/el-bank-logo.php:51
+msgid "Bank Muamalat"
+msgstr ""
+
+#: includes/widgets/elementor/el-bank-logo.php:52
+msgid "Panin Bank"
+msgstr ""
+
+#: includes/widgets/elementor/el-bank-logo.php:53
+msgid "Permata Bank"
+msgstr ""
+
+#: includes/widgets/elementor/el-bank-logo.php:61
+#: includes/widgets/elementor/el-courier-logo.php:53
+msgid "Size"
+msgstr ""
+
+#: includes/widgets/elementor/el-bank-logo.php:83
+#: includes/widgets/elementor/el-courier-logo.php:75
+msgid "Height Wrapper"
+msgstr ""
+
+#: includes/widgets/elementor/el-bank-logo.php:105
+#: includes/widgets/elementor/el-countdown.php:42
+#: includes/widgets/elementor/el-courier-logo.php:114
+msgid "Alignment"
+msgstr ""
+
+#: includes/widgets/elementor/el-bank-logo.php:109
+#: includes/widgets/elementor/el-contact-buttons.php:291
+#: includes/widgets/elementor/el-countdown.php:46
+#: includes/widgets/elementor/el-courier-logo.php:118
+msgid "Left"
+msgstr ""
+
+#: includes/widgets/elementor/el-bank-logo.php:113
+#: includes/widgets/elementor/el-contact-buttons.php:295
+#: includes/widgets/elementor/el-countdown.php:50
+#: includes/widgets/elementor/el-courier-logo.php:122
+msgid "Center"
+msgstr ""
+
+#: includes/widgets/elementor/el-bank-logo.php:117
+#: includes/widgets/elementor/el-contact-buttons.php:299
+#: includes/widgets/elementor/el-countdown.php:54
+#: includes/widgets/elementor/el-courier-logo.php:126
+msgid "Right"
+msgstr ""
+
+#: includes/widgets/elementor/el-bank-logo.php:131
+msgid "Vertical Alignment"
+msgstr ""
+
+#: includes/widgets/elementor/el-bank-logo.php:135
+#: includes/widgets/elementor/el-courier-logo.php:102
+msgid "Top"
+msgstr ""
+
+#: includes/widgets/elementor/el-bank-logo.php:136
+#: includes/widgets/elementor/el-courier-logo.php:101
+msgid "Middle"
+msgstr ""
+
+#: includes/widgets/elementor/el-bank-logo.php:137
+#: includes/widgets/elementor/el-courier-logo.php:103
+msgid "Bottom"
+msgstr ""
+
+#: includes/widgets/elementor/el-best-selling-products.php:13
+#: includes/widgets/elementor/el-best-selling-products.php:26
+msgid "CL - Best Selling Products"
+msgstr ""
+
+#: includes/widgets/elementor/el-best-selling-products.php:33
+#: includes/widgets/elementor/el-featured-products.php:33
+#: includes/widgets/elementor/el-hand-picked-products.php:42
+#: includes/widgets/elementor/el-products-by-category.php:53
+#: includes/widgets/elementor/el-recent-products.php:33
+msgid "Number of Column"
+msgstr ""
+
+#: includes/widgets/elementor/el-best-selling-products.php:48
+#: includes/widgets/elementor/el-featured-products.php:48
+#: includes/widgets/elementor/el-hand-picked-products.php:57
+#: includes/widgets/elementor/el-products-by-category.php:68
+#: includes/widgets/elementor/el-recent-products.php:48
+msgid "Number of Items"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:13
+#: includes/widgets/elementor/el-contact-buttons.php:26
+msgid "CL - Contact Buttons"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:33
+msgid "Button Type"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:43
+msgid "Messenger"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:51
+msgid "BBM ID"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:53
+msgid "Enter BBM ID"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:66
+msgid "Enter rext of button"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:79
+msgid "Enter WhatsApp Number"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:92
+#: includes/widgets/elementor/el-contact-buttons.php:131
+#: includes/widgets/elementor/el-contact-buttons.php:157
+#: includes/widgets/elementor/el-contact-buttons.php:196
+#: includes/widgets/elementor/el-contact-buttons.php:222
+#: includes/widgets/elementor/el-contact-buttons.php:248
+msgid "Enter text of button"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:105
+msgid "Enter text of WhatsApp Message"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:109
+msgid "Halo, saya tertarik dengan produknya"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:118
+#: includes/widgets/elementor/el-contact-buttons.php:144
+msgid "Enter Phone Number"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:174
+msgid "Saya ingin memesan produk Anda, mohon SMS saya"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:181
+msgid "Line ID"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:183
+msgid "Enter Line ID"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:207
+msgid "Username"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:209
+msgid "Enter Telegram ID"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:233
+msgid "FB Page Username / ID"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:235
+msgid "Enter FB Page Username / ID"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:259
+msgid "Display Icon"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:262
+msgid "Yes"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:263
+msgid "No"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:271
+msgid "Button Size"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:275
+msgid "Extra Small"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:276
+msgid "Small"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:277
+msgid "Medium"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:278
+msgid "Large"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:279
+msgid "Extra Large"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:287
+msgid "Button Alignment"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:303
+msgid "Justified"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:315
+msgid "FB Ads Event"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:319
+msgid "No Event"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:320
+msgid "ViewContent"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:321
+msgid "AddToWishlist"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:322
+msgid "AddToCart"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:323
+msgid "InitiateCheckout"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:324
+msgid "AddCustomerInfo"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:325
+msgid "Purchase"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:326
+msgid "AddPaymentInfo"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:327
+msgid "Lead"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:328
+msgid "CompleteRegistration"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:336
+msgid "Make button sticky on mobile device"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:340
+msgid "Disable"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:341
+msgid "Enable"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:349
+msgid "Desktop Lightbox Heading"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:351
+msgid "Cara membeli"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:352
+#: includes/widgets/elementor/el-contact-buttons.php:362
+#: includes/widgets/elementor/el-twitter-feeds.php:81
+#: includes/widgets/elementor/el-twitter-feeds.php:92
+#: includes/widgets/elementor/el-twitter-feeds.php:103
+#: includes/widgets/elementor/el-twitter-feeds.php:114
+#: includes/widgets/elementor/el-twitter-feeds.php:125
+#: includes/widgets/elementor/el-twitter-feeds.php:136
+msgid "Enter some text"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:359
+msgid "Desktop Lightbox Message"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:361
+msgid ""
+"Harap menghubungi kami via [contact_app] di [contact_id] pada handphone Anda."
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:371
+msgid "Button"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:391
+msgid "Normal"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:398
+#: includes/widgets/elementor/el-contact-buttons.php:431
+msgid "Text Color"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:410
+#: includes/widgets/elementor/el-contact-buttons.php:442
+msgid "Background Color"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:424
+msgid "Hover"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:479
+msgid "How To Buy"
+msgstr ""
+
+#: includes/widgets/elementor/el-contact-buttons.php:480
+msgid ""
+"Please contact us via [contact_app] at [contact_id] on your mobile device."
+msgstr ""
+
+#: includes/widgets/elementor/el-countdown.php:13
+#: includes/widgets/elementor/el-countdown.php:26
+msgid "CL - Countdown"
+msgstr ""
+
+#: includes/widgets/elementor/el-courier-logo.php:13
+#: includes/widgets/elementor/el-courier-logo.php:26
+msgid "CL - Courier Logo"
+msgstr ""
+
+#: includes/widgets/elementor/el-courier-logo.php:33
+msgid "Courier Name"
+msgstr ""
+
+#: includes/widgets/elementor/el-courier-logo.php:37
+msgid "Gojek"
+msgstr ""
+
+#: includes/widgets/elementor/el-courier-logo.php:38
+msgid "Grab"
+msgstr ""
+
+#: includes/widgets/elementor/el-courier-logo.php:39
+msgid "J & T"
+msgstr ""
+
+#: includes/widgets/elementor/el-courier-logo.php:40
+msgid "JNE"
+msgstr ""
+
+#: includes/widgets/elementor/el-courier-logo.php:41
+msgid "Pos Indonesia"
+msgstr ""
+
+#: includes/widgets/elementor/el-courier-logo.php:42
+msgid "REX"
+msgstr ""
+
+#: includes/widgets/elementor/el-courier-logo.php:43
+msgid "Sicepat"
+msgstr ""
+
+#: includes/widgets/elementor/el-courier-logo.php:44
+msgid "TIKI"
+msgstr ""
+
+#: includes/widgets/elementor/el-courier-logo.php:45
+msgid "Wahana"
+msgstr ""
+
+#: includes/widgets/elementor/el-courier-logo.php:97
+msgid "Vertical Align"
+msgstr ""
+
+#: includes/widgets/elementor/el-custom-form.php:13
+#: includes/widgets/elementor/el-custom-form.php:26
+msgid "CL - Custom Form"
+msgstr ""
+
+#: includes/widgets/elementor/el-custom-form.php:33
+msgid "Form Code"
+msgstr ""
+
+#: includes/widgets/elementor/el-custom-form.php:42
+msgid "Form Width"
+msgstr ""
+
+#: includes/widgets/elementor/el-custom-form.php:68
+msgid "Form Display"
+msgstr ""
+
+#: includes/widgets/elementor/el-custom-form.php:73
+msgid "Full Width"
+msgstr ""
+
+#: includes/widgets/elementor/el-custom-form.php:81
+msgid "Input Field Width"
+msgstr ""
+
+#: includes/widgets/elementor/el-custom-form.php:86
+msgid "Width 50%"
+msgstr ""
+
+#: includes/widgets/elementor/el-custom-form.php:96
+msgid "Button Style"
+msgstr ""
+
+#: includes/widgets/elementor/el-custom-form.php:114
+msgid "Button Color"
+msgstr ""
+
+#: includes/widgets/elementor/el-custom-form.php:130
+msgid "Button Background Color"
+msgstr ""
+
+#: includes/widgets/elementor/el-custom-form.php:143
+msgid "Button Height"
+msgstr ""
+
+#: includes/widgets/elementor/el-custom-form.php:169
+msgid "Button Border Hover Color"
+msgstr ""
+
+#: includes/widgets/elementor/el-custom-form.php:181
+msgid "Button Border"
+msgstr ""
+
+#: includes/widgets/elementor/el-custom-form.php:191
+msgid "Button Border Radius"
+msgstr ""
+
+#: includes/widgets/elementor/el-custom-form.php:206
+msgid "Form Style"
+msgstr ""
+
+#: includes/widgets/elementor/el-custom-form.php:224
+msgid "Input Field Text Color"
+msgstr ""
+
+#: includes/widgets/elementor/el-custom-form.php:240
+msgid "Input Field Height"
+msgstr ""
+
+#: includes/widgets/elementor/el-custom-form.php:266
+msgid "Form Background Color"
+msgstr ""
+
+#: includes/widgets/elementor/el-custom-form.php:277
+msgid "Form Border Hover Color"
+msgstr ""
+
+#: includes/widgets/elementor/el-custom-form.php:289
+msgid "Form Border"
+msgstr ""
+
+#: includes/widgets/elementor/el-custom-form.php:299
+msgid "Form Border Radius"
+msgstr ""
+
+#: includes/widgets/elementor/el-featured-products.php:13
+#: includes/widgets/elementor/el-featured-products.php:26
+msgid "CL - Featured Products"
+msgstr ""
+
+#: includes/widgets/elementor/el-featured-products.php:57
+#: includes/widgets/elementor/el-hand-picked-products.php:66
+#: includes/widgets/elementor/el-products-by-category.php:77
+#: includes/widgets/elementor/el-recent-products.php:57
+msgid "Sort Order By"
+msgstr ""
+
+#: includes/widgets/elementor/el-featured-products.php:63
+#: includes/widgets/elementor/el-hand-picked-products.php:72
+#: includes/widgets/elementor/el-products-by-category.php:83
+#: includes/widgets/elementor/el-recent-products.php:63
+msgid "Random"
+msgstr ""
+
+#: includes/widgets/elementor/el-featured-products.php:71
+#: includes/widgets/elementor/el-hand-picked-products.php:80
+#: includes/widgets/elementor/el-products-by-category.php:91
+#: includes/widgets/elementor/el-recent-products.php:71
+msgid "Sort Order"
+msgstr ""
+
+#: includes/widgets/elementor/el-featured-products.php:75
+#: includes/widgets/elementor/el-hand-picked-products.php:84
+#: includes/widgets/elementor/el-products-by-category.php:95
+#: includes/widgets/elementor/el-recent-products.php:75
+msgid "Ascending"
+msgstr ""
+
+#: includes/widgets/elementor/el-featured-products.php:76
+#: includes/widgets/elementor/el-hand-picked-products.php:85
+#: includes/widgets/elementor/el-products-by-category.php:96
+#: includes/widgets/elementor/el-recent-products.php:76
+msgid "Descending"
+msgstr ""
+
+#: includes/widgets/elementor/el-hand-picked-products.php:13
+#: includes/widgets/elementor/el-hand-picked-products.php:26
+msgid "CL - Hand Picked Products"
+msgstr ""
+
+#: includes/widgets/elementor/el-hand-picked-products.php:33
+msgid "Products ID"
+msgstr ""
+
+#: includes/widgets/elementor/el-hand-picked-products.php:35
+msgid "Enter products id, separate by comma (,) ex : 1990, 1890, etc"
+msgstr ""
+
+#: includes/widgets/elementor/el-latest-blog.php:13
+#: includes/widgets/elementor/el-latest-blog.php:26
+msgid "CL - Latest Blog"
+msgstr ""
+
+#: includes/widgets/elementor/el-latest-blog.php:33
+msgid "Number of Posts"
+msgstr ""
+
+#: includes/widgets/elementor/el-latest-blog.php:42
+msgid "Image Size"
+msgstr ""
+
+#: includes/widgets/elementor/el-latest-blog.php:46
+msgid "thumbnail"
+msgstr ""
+
+#: includes/widgets/elementor/el-latest-blog.php:47
+msgid "medium"
+msgstr ""
+
+#: includes/widgets/elementor/el-latest-blog.php:48
+msgid "large"
+msgstr ""
+
+#: includes/widgets/elementor/el-latest-blog.php:49
+msgid "full"
+msgstr ""
+
+#: includes/widgets/elementor/el-latest-blog.php:57
+msgid "Post Content Limiter"
+msgstr ""
+
+#: includes/widgets/elementor/el-latest-blog.php:121
+msgid "There's no news found."
+msgstr ""
+
+#: includes/widgets/elementor/el-products-by-category.php:13
+#: includes/widgets/elementor/el-products-by-category.php:26
+msgid "CL - Products by Category"
+msgstr ""
+
+#: includes/widgets/elementor/el-products-by-category.php:41
+msgid "Choose Categories"
+msgstr ""
+
+#: includes/widgets/elementor/el-recent-products.php:13
+#: includes/widgets/elementor/el-recent-products.php:26
+msgid "CL - Recent Products"
+msgstr ""
+
+#: includes/widgets/elementor/el-single-product-highlight.php:13
+#: includes/widgets/elementor/el-single-product-highlight.php:26
+msgid "CL - Single Product Highlight"
+msgstr ""
+
+#: includes/widgets/elementor/el-single-product-highlight.php:33
+msgid "Product ID"
+msgstr ""
+
+#: includes/widgets/elementor/el-single-product-highlight.php:42
+msgid "Display Gallery Thumbnail"
+msgstr ""
+
+#: includes/widgets/elementor/el-single-product-highlight.php:46
+msgid "Show Thumbnail"
+msgstr ""
+
+#: includes/widgets/elementor/el-single-product-highlight.php:47
+msgid "Hide Thumbnail"
+msgstr ""
+
+#: includes/widgets/elementor/el-single-product-highlight.php:55
+msgid "Display Additional Info"
+msgstr ""
+
+#: includes/widgets/elementor/el-single-product-highlight.php:59
+msgid "Show Additional Info"
+msgstr ""
+
+#: includes/widgets/elementor/el-single-product-highlight.php:60
+msgid "Hide Additional Info"
+msgstr ""
+
+#: includes/widgets/elementor/el-single-product-highlight.php:68
+msgid "Display Short Description"
+msgstr ""
+
+#: includes/widgets/elementor/el-single-product-highlight.php:72
+msgid "Show Short Description"
+msgstr ""
+
+#: includes/widgets/elementor/el-single-product-highlight.php:73
+msgid "Hide Short Description"
+msgstr ""
+
+#: includes/widgets/elementor/el-single-product-highlight.php:116
+msgid "Product not found."
+msgstr ""
+
+#: includes/widgets/elementor/el-slideshow.php:13
+#: includes/widgets/elementor/el-slideshow.php:26
+msgid "CL - Slideshow"
+msgstr ""
+
+#: includes/widgets/elementor/el-slideshow.php:33
+msgid "Choose Slideshow"
+msgstr ""
+
+#: includes/widgets/elementor/el-testimonials.php:13
+#: includes/widgets/elementor/el-testimonials.php:26
+msgid "CL - Testimonials"
+msgstr ""
+
+#: includes/widgets/elementor/el-testimonials.php:33
+#: includes/widgets/elementor/el-testimonials.php:35
+#: includes/widgets/elementor/el-testimonials.php:69
+msgid "Testimony Name"
+msgstr ""
+
+#: includes/widgets/elementor/el-testimonials.php:36
+#: includes/widgets/elementor/el-testimonials.php:55
+msgid "Enter name of testimony"
+msgstr ""
+
+#: includes/widgets/elementor/el-testimonials.php:43
+msgid "Testimony Photo"
+msgstr ""
+
+#: includes/widgets/elementor/el-testimonials.php:54
+msgid "Testimony Text"
+msgstr ""
+
+#: includes/widgets/elementor/el-testimonials.php:58
+#: includes/widgets/elementor/el-testimonials.php:72
+msgid "Enter your testimony text below here"
+msgstr ""
+
+#: includes/widgets/elementor/el-twitter-feeds.php:57
+msgid "CL - Twitter Feeds"
+msgstr ""
+
+#: includes/widgets/elementor/el-twitter-feeds.php:70
+msgid "Twitter Feeds"
+msgstr ""
+
+#: includes/widgets/elementor/el-twitter-feeds.php:78
+msgid "Consumer Key"
+msgstr ""
+
+#: includes/widgets/elementor/el-twitter-feeds.php:89
+msgid "Consumer Secret"
+msgstr ""
+
+#: includes/widgets/elementor/el-twitter-feeds.php:100
+msgid "Access Token"
+msgstr ""
+
+#: includes/widgets/elementor/el-twitter-feeds.php:111
+msgid "Access Token Secret"
+msgstr ""
+
+#: includes/widgets/elementor/el-twitter-feeds.php:122
+msgid "Twitter Username"
+msgstr ""
+
+#: includes/widgets/elementor/el-twitter-feeds.php:133
+msgid "Number Of Tweets"
+msgstr ""
+
+#: includes/widgets/elementor/el-twitter-feeds.php:168
+#, php-format
+msgid "<a href=\"%s\" target=\"_blank\">%s ago</a>"
+msgstr ""
+
+#: page.php:36 page.php:71 template-blank.php:24
+#: template-fullwidth-no-title.php:27 template-fullwidth.php:28
+#: template-homepage.php:23
+msgid "Pages:"
+msgstr ""
+
+#: search-product.php:14 searchform.php:14
+msgid "Type search and hit enter..."
+msgstr ""
+
+#: sidebar.php:17
+#, php-format
+msgid ""
+"There is no widget assigned. You can start assigning widgets to \"Sidebar "
+"Widgets\" widget area from the <a href=\"%s\" target=\"_blank\">Widgets</a>."
+msgstr ""
+
+#: template-migration.php:16
+msgid "Maintainance Mode"
+msgstr ""
+
+#: template-migration.php:48
+msgid ""
+"Mohon maaf, kami sedang dalam proses maintainance. Silahkan cek kembali "
+"secara berkala."
+msgstr ""
+
+#: template-migration.php:51
+msgid "Update Theme Cepatlakoo"
+msgstr ""
+
+#: template-migration.php:52
+msgid ""
+"Hai Admin, theme Cepatlakoo mengalami perubahan cukup besar pada versi ini. "
+"Kami mengubah theme options dari menggunakan Titan Framework menjadi "
+"menggunakan plugin Redux Framework"
+msgstr ""
+
+#: template-migration.php:53
+msgid "Klik link di bawah untuk melakukan proses migrasi theme options."
+msgstr ""
+
+#: template-migration.php:54
+msgid "Lakukan Migrasi Sekarang"
+msgstr ""
+
+#: updater/theme-updater-admin.php:240
+msgid "Error"
+msgstr ""
+
+#: updater/theme-updater-admin.php:271 updater/theme-updater-admin.php:318
+#: updater/theme-updater-admin.php:371
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: updater/theme-updater-admin.php:285
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: updater/theme-updater-admin.php:292
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: updater/theme-updater-admin.php:297
+msgid "Invalid license."
+msgstr ""
+
+#: updater/theme-updater-admin.php:303
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: updater/theme-updater-admin.php:308
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: updater/theme-updater-admin.php:313
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: updater/theme-updater.php:30
+msgid "Theme License"
+msgstr ""
+
+#: updater/theme-updater.php:31
+msgid "Enter your theme license key."
+msgstr ""
+
+#: updater/theme-updater.php:32
+msgid "License Key"
+msgstr ""
+
+#: updater/theme-updater.php:33
+msgid "License Action"
+msgstr ""
+
+#: updater/theme-updater.php:34
+msgid "Deactivate License"
+msgstr ""
+
+#: updater/theme-updater.php:35
+msgid "Activate License"
+msgstr ""
+
+#: updater/theme-updater.php:36 updater/theme-updater.php:49
+msgid "License status is unknown."
+msgstr ""
+
+#: updater/theme-updater.php:37
+msgid "Renew?"
+msgstr ""
+
+#: updater/theme-updater.php:38
+msgid "unlimited"
+msgstr ""
+
+#: updater/theme-updater.php:39
+msgid "License key is active."
+msgstr ""
+
+#: updater/theme-updater.php:40
+#, php-format
+msgid "Expires %s."
+msgstr ""
+
+#: updater/theme-updater.php:41
+msgid "Lifetime License."
+msgstr ""
+
+#: updater/theme-updater.php:42
+#, php-format
+msgid ""
+"You have <span class=\"active-sites\">%1$s / %2$s</span> sites activated."
+msgstr ""
+
+#: updater/theme-updater.php:43
+#, php-format
+msgid "License key expired %s."
+msgstr ""
+
+#: updater/theme-updater.php:44
+msgid "License key has expired."
+msgstr ""
+
+#: updater/theme-updater.php:45
+msgid "License keys do not match."
+msgstr ""
+
+#: updater/theme-updater.php:46
+msgid "License is inactive."
+msgstr ""
+
+#: updater/theme-updater.php:47
+msgid "License key is disabled."
+msgstr ""
+
+#: updater/theme-updater.php:48
+msgid "Site is inactive."
+msgstr ""
+
+#: updater/theme-updater.php:50
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+
+#: updater/theme-updater.php:51
+#, php-format
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" "
+"title=\"%4s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update now</"
+"a>."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:60
+msgid ""
+"There are no shipping methods available. Please ensure that your address has "
+"been entered correctly, or contact us if you need any help."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:62
+msgid "Enter your full address to see shipping costs."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:58
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:95
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:103
+msgid "No products in the cart."
+msgstr "Tidak ada produk dalam keranjang"
+
+#: woocommerce/checkout/thankyou.php:29
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:32
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:34
+msgid "My account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:42 woocommerce/checkout/thankyou.php:86
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:47
+msgid "Order number:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:52
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:58
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:64
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:70
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:32
+msgid "Quantity"
+msgstr "Jumlah"
+
+#: woocommerce/global/quantity-input.php:33
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:33
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:58
+msgid "Awaiting product image"
+msgstr ""
+
+#: woocommerce/single-product/related.php:25
+msgid "Related products"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#. Author of the plugin/theme
+msgid "Cepatlakoo"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://cepatlakoo.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "CepatLakoo WooCommerce WordPress Theme"
+msgstr ""
+
+#~ msgid "Enter your email registered to smsgateway.me website."
+#~ msgstr "Masukkan alamat email Anda yang terdaftar di website smsgateway.me."
+
+#~ msgid "Enter your password."
+#~ msgstr "Masukkan password akun smsgateway Anda."
+
+#~ msgid "Countdown Timer for Order Received Page"
+#~ msgstr "Countdown Timer di Halaman Order Received"
+
+#~ msgid ""
+#~ "Enter your SMS message. You can use %lakoo_name%, %lakoo_order_id%, "
+#~ "%lakoo_products%, %lakoo_shipping_cost%, %lakoo_courier%, "
+#~ "%lakoo_tracking_code%, %lakoo_tracking_date%, %lakoo_order_total% to "
+#~ "display order detail."
+#~ msgstr ""
+#~ "Ketikkan teks pesan di SMS. Anda dapat menggunakan kode %lakoo_name%, "
+#~ "%lakoo_order_id%, %lakoo_products%, %lakoo_shipping_cost%, %lakoo_courier"
+#~ "%, %lakoo_tracking_code%, %lakoo_tracking_date%, %lakoo_order_total% "
+#~ "untuk menampilkan detail pesanan."
+
+#~ msgid ""
+#~ "<b>Need help?</b> Login to the member area and join our Facebook support "
+#~ "group. <a href=\"https://cepatlakoo.com/dashboard/\" target=\"_blank"
+#~ "\">Click here</a>"
+#~ msgstr ""
+#~ "<b>Butuh bantuan?</b> Login ke member area dan gabung di group support "
+#~ "Cepatlakoo di Facebook dan tonton video tutorial. <a href=\"https://"
+#~ "cepatlakoo.com/dashboard/\" target=\"_blank\">Klik di sini</a>"
+
+#~ msgid "CepatLakoo - Bank"
+#~ msgstr "Cepatlakoo - Bank"
+
+#~ msgid ""
+#~ "<b>Need help?</b> Login to the member area and join our Facebook support "
+#~ "group. <a href=\"https://cepatlakoo.com/login/\" target=\"_blank\">Click "
+#~ "here</a>"
+#~ msgstr ""
+#~ "<b>Butuh bantuan?</b> Login ke member area dan gabung di group support "
+#~ "Cepatklakoo di Facebook. a href=\"https://cepatlakoo.com/login/\" target="
+#~ "\"_blank\">Klik di sini</a>"
+
+#~ msgid ""
+#~ "Your phone number registered to smsgateway.me. For example: 085613242215."
+#~ msgstr "Nomor telepon yang Anda yang sudah terinsklas"
+
+#~ msgid ""
+#~ "Configure settings related WooCommerce SMS Notification using smsgateway."
+#~ "me service.."
+#~ msgstr ""
+#~ "Konfigurasi seting yang berhubungan dengan SMS notifikasi untuk "
+#~ "WooCommerce menggunakan layanan smsgateway.me."
+
+#~ msgid "Tags: "
+#~ msgstr "Tag:"
+
+#~ msgid "Welcome to %s"
+#~ msgstr "Selamat datang di %s"
+
+#~ msgid "Hi. Welcome back"
+#~ msgstr "Hai, selamat datang kembali"
+
+#~ msgid ""
+#~ "This wizard will set up your theme, install plugins, and import content. "
+#~ "It is optional & should take only a few minutes."
+#~ msgstr ""
+#~ "Wizard bantuan ini akan membantu mensetup theme, menginstal plugin yang "
+#~ "dibutuhkan serta mengimpor  konten. Langkah ini opsional & hanya "
+#~ "membutuhkan waktu beberapa menit saja."
+
+#~ msgid ""
+#~ "You may have already run this theme setup wizard. If you would like to "
+#~ "proceed anyway, click on the \"Start\" button below."
+#~ msgstr ""
+#~ "Anda mungkin sudah pernah menjalankan setup wizard ini. Jika ingin terus "
+#~ "melanjutkan, klik tombol \"Start\" di bawah."
+
+#~ msgid "Install Child Theme"
+#~ msgstr "Instal Child Theme"
+
+#~ msgid ""
+#~ "Let’s build & activate a child theme so you may easily make theme changes."
+#~ msgstr ""
+#~ "Buat & aktifkan child theme sehingga Anda lebih mudah dalam membuat "
+#~ "modifikasi pada kode theme."
+
+#~ msgid ""
+#~ "Your child theme has already been installed and is now activated — if it "
+#~ "wasn't already."
+#~ msgstr "Child theme Anda sudah diinstal dan diaktifkan."
+
+#~ msgid "Learn about child themes"
+#~ msgstr "Apa itu child theme?"
+
+#~ msgid ""
+#~ "Awesome. Your child theme has already been installed and is now activated."
+#~ msgstr "Keren! Child theme Anda sudah diinstal dan sudah diaktifkan."
+
+#~ msgid "Awesome. Your child theme has been created and is now activated."
+#~ msgstr "Keren! Child theme Anda sudah berhasil dibuat dan sudah diaktifkan."
+
+#~ msgid ""
+#~ "Let’s install some essential WordPress plugins to get your site up to "
+#~ "speed."
+#~ msgstr "Mulai instal beberapa plugin penting."
+
+#~ msgid ""
+#~ "The required WordPress plugins are all installed and up to date. Press "
+#~ "\"Next\" to continue the setup wizard."
+#~ msgstr ""
+#~ "Plugin WordPress yang dibutuhkan sudah berhasil diinstal dan up to date. "
+#~ "Klik \"Next\" untuk melanjutkan langkah berikutnya."
+
+#~ msgid "Advanced"
+#~ msgstr "Lihat Detil"
+
+#~ msgid "Import Content"
+#~ msgstr "Impor Konten"
+
+#~ msgid ""
+#~ "Let’s import content to your website, to help you get familiar with the "
+#~ "theme."
+#~ msgstr "Ayo impor konten ke website Anda."
+
+#~ msgid "Activate %s"
+#~ msgstr "Aktifkan %s"
+
+#~ msgid ""
+#~ "Add your license key to activate one-click updates and theme support."
+#~ msgstr "Masukkan kode lisensi untuk mengaktifkan fitur one-click update."
+
+#~ msgid "More info"
+#~ msgstr "Info lebih lanjut"
+
+#~ msgid "Explore WordPress"
+#~ msgstr "Telusuri WordPress"
+
+#~ msgid "Get Theme Support"
+#~ msgstr "Dapatkan Support Theme"
+
+#~ msgid "Start Customizing"
+#~ msgstr "Mulai Kostumasi"
+
+#~ msgid "All done. Have fun!"
+#~ msgstr "Selesai. Selamat bersenang-senang!"
+
+#~ msgid "Your theme has been all set up. Enjoy your new theme by %s."
+#~ msgstr "Theme sudah selesai disetup. Selamat menikmati theme %s."
+
+#~ msgid "Extras"
+#~ msgstr "Ekstra"
+
+#~ msgid "View your website"
+#~ msgstr "Lihat website Anda"
+
+#~ msgid "Contact Customer"
+#~ msgstr "Hubungi Pembeli"
+
+#~ msgid "Coupon code"
+#~ msgstr "Kode kupon"
+
+#~ msgid "Remember me"
+#~ msgstr "Ingatkan saya"
+
+#~ msgid "Lost your password?"
+#~ msgstr "Lupa password?"

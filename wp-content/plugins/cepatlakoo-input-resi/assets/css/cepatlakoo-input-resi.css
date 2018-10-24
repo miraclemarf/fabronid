@@ -1,0 +1,18 @@
+input[type="button"]{
+	background: #fff;
+    border: none;
+    padding: 5px 50px;
+}
+
+input[type="button"].hapus{
+	background: #d9534f;
+    border: none;
+    padding: 4px 20px;
+    color: #fff;
+}
+
+div.data-item{
+	margin:10px;
+	margin-left: 0px;
+}
+

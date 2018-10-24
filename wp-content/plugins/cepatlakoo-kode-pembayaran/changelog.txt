@@ -1,0 +1,26 @@
+** Changelog for Cepatlakoo Kode Pembayaran WordPress plugin **
+** Author: http://cepatlakoo.com **
+
+
+May 22th, 2018 -- Version 1.1.4
+- add conditional to check woocommerce
+
+Apr 2nd, 2018 -- Version 1.1.3
+- add saved setting notification
+- clear whitespace + open & close tag php
+
+March 28th, 2018 -- Version 1.1.2
+- fix ajax name wp_ajax_cepatlakoo_kode_pembayaran_get_data (indihome problem)
+- add function to clear trancient when order placed
+- move submenu to under woocommerce
+- fix unique code from phone
+- add conditional wp_enqueue_script when using method unique code from phone
+
+October 10th, 2017 -- Version 1.1.1
+- Benerin fitur 3 digit nomor telpon
+
+September 20th, 2017 -- Version 1.1.0
+- Tambah fitur mengurangi/menambah jumlah total pembayaran
+
+August 30th, 2017 -- Version 1.0.0
+- First release

@@ -1,0 +1,138 @@
+body.post-type-cl_countdown_timer .cmb2-id-cl-countdown-day,
+body.post-type-cl_countdown_timer .cmb2-id-cl-countdown-hour,
+body.post-type-cl_countdown_timer .cmb2-id-cl-countdown-minute,
+body.post-type-cl_countdown_timer .cmb2-id-cl-countdown-second,
+body.post-type-cl_countdown_timer .cmb2-id-cl-normal-countdown-date,
+body.post-type-cl_countdown_timer .cmb2-id-cl-normal-countdown-hour,
+body.post-type-cl_countdown_timer .cmb2-id-cl-normal-countdown-minute,
+body.post-type-cl_countdown_timer .cmb2-id-cl-normal-countdown-second {
+	display: inline-block;
+    width: 20%;
+    margin-right: 2%;
+}
+
+body.post-type-cl_countdown_timer .cmb2-id-cl-countdown-day .cmb-th,
+body.post-type-cl_countdown_timer .cmb2-id-cl-countdown-hour .cmb-th,
+body.post-type-cl_countdown_timer .cmb2-id-cl-countdown-minute .cmb-th,
+body.post-type-cl_countdown_timer .cmb2-id-cl-countdown-second .cmb-th,
+body.post-type-cl_countdown_timer .cmb2-id-cl-normal-countdown-date .cmb-th,
+body.post-type-cl_countdown_timer .cmb2-id-cl-normal-countdown-hour .cmb-th,
+body.post-type-cl_countdown_timer .cmb2-id-cl-normal-countdown-minute .cmb-th,
+body.post-type-cl_countdown_timer .cmb2-id-cl-normal-countdown-second .cmb-th {
+	width: 100%;
+}
+
+body.post-type-cl_countdown_timer .cmb2-id-cl-countdown-day .cmb-td,
+body.post-type-cl_countdown_timer .cmb2-id-cl-countdown-hour .cmb-td,
+body.post-type-cl_countdown_timer .cmb2-id-cl-countdown-minute .cmb-td,
+body.post-type-cl_countdown_timer .cmb2-id-cl-countdown-second .cmb-td,
+body.post-type-cl_countdown_timer .cmb2-id-cl-normal-countdown-date .cmb-td,
+body.post-type-cl_countdown_timer .cmb2-id-cl-normal-countdown-hour .cmb-td,
+body.post-type-cl_countdown_timer .cmb2-id-cl-normal-countdown-minute .cmb-td,
+body.post-type-cl_countdown_timer .cmb2-id-cl-normal-countdown-second .cmb-td {
+	width: 100%;
+	text-align: left;
+}
+
+body.post-type-cl_countdown_timer .cmb2-id-cl-countdown-shortcode .cmb-td {
+	width: 100%;
+}
+
+body.post-type-cl_countdown_timer .cmb2-id-cl-countdown-shortcode input {
+	/*pointer-events: none;*/
+	font-family: monospace;
+	font-size: 15px;
+	width: 100%;
+}
+
+span.cl-shortcode {
+	font-family: monospace;
+	font-size: 15px;
+}
+
+.column-featured_image img{
+	max-width: 100%;
+}
+
+th#featured_image {
+    width: 13%;
+}
+
+th#contact {
+	width: 12%;
+}
+
+td.column-contact a {
+	min-width: 73px;
+	color: #ffffff !important;
+	line-height: 150% !important;
+	margin-right: 5px !important;
+	margin-bottom: 10px !important;
+	box-shadow: none !important;
+	border: none !important;
+}
+
+td.column-contact a.whatsapp {
+	background: #0dba4e !important;
+}
+
+td.column-contact a.sms {
+	background: #efc33c !important;
+}
+
+td.column-contact a.whatsapp:before,
+td.column-contact a.sms:before {
+    display: inline-block;
+    content: "\f125";
+    font-family: dashicons;
+    font-size: 16px;
+    color: #fff;
+    margin-right: 5px;
+    position: relative;
+    top: 4px;
+}
+
+td.column-contact a.sms:before {
+	content: '\f465';
+}
+
+body.appearance_page_tgmpa-install-plugins table.wp-list-table tr.redux-framework td {
+	background-color: #a3d7ff;
+}
+
+body.appearance_page_cepatlakoo-license span.active-sites {
+	font-weight: 700;
+	color: green;
+}
+
+.rAds {
+	display: none !important;
+}
+
+.cl-notif {
+    color: #ff0000;
+}
+
+ul.setup-panel {
+	display: inline-flex !important;
+	width: 100%;
+}
+
+.setup-panel li {
+	width: 33%;
+	text-align: center;
+	border-bottom: 4px solid #ccc !important;
+}
+
+.setup-panel li a{
+	text-decoration:none;
+	color: #aaa;
+}
+
+.setup-panel li.active {
+	border-bottom: 4px solid #006799 !important;
+}
+
+.setup-panel li.active a {
+	color: #006799;
+}

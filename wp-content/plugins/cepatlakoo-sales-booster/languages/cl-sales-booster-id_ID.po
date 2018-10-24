@@ -1,0 +1,161 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cepatlakoo Sales Booster\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-14 09:21+0700\n"
+"PO-Revision-Date: 2018-03-14 10:20+0700\n"
+"Last-Translator: ThemeWarrior <support@themewarrior.com>\n"
+"Language-Team: Cepatlakoo <cepatlakoo@gmail.com>\n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: esc_html_e;_e;__;esc_html__\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../cepatlakoo-sales-booster.php:19
+msgid "Settings"
+msgstr ""
+
+#: ../cepatlakoo-sales-booster.php:57
+msgid ""
+"Cepatlakoo Sales Booster is an Extension to WooCommerce. Please activate "
+"WooCommerce first!"
+msgstr ""
+"Cepatlakoo Sales Booster adalah add-on untuk WooCommerce. Harap aktifkan "
+"WooCommerce terlebih dahulu."
+
+#: ../init.php:78
+msgid "Cepatlakoo Sales Booster for WooCommerce"
+msgstr "Cepatlakoo Sales Booster untuk WooCommerce"
+
+#: ../init.php:79
+msgid "Notify store visitors about the recent WooCommerce sales"
+msgstr ""
+"Menampilkan notifikasi ke pengunjung website mengenai order terbaru pada "
+"toko online WooCommerce."
+
+#: ../init.php:89
+msgid "Enable Sales Booster"
+msgstr "Aktifkan Sales Booster"
+
+#: ../init.php:93 ../init.php:104 ../init.php:162
+msgid "Yes"
+msgstr "Ya"
+
+#: ../init.php:95
+msgid "No"
+msgstr "Tidak"
+
+#: ../init.php:100
+msgid "Display buyer's name?"
+msgstr "Tampilkan nama pembeli"
+
+#: ../init.php:111
+msgid "Number of sales displayed:"
+msgstr "Jumlah penjualan yang ditampilkan"
+
+#: ../init.php:126
+msgid "Set minimal delay"
+msgstr "Set delay minimal"
+
+#: ../init.php:136 ../init.php:152
+msgid "seconds"
+msgstr "detik"
+
+#: ../init.php:142
+msgid "Set maxmimum delay"
+msgstr "Set delay maksimum"
+
+#: ../init.php:153
+msgid "Max value must greater than min value"
+msgstr "Nilai maksimal harus lebih besar dari nilai minimal"
+
+#: ../init.php:158
+msgid "Display randomly?"
+msgstr "Tampilkan secara acak?"
+
+#: ../init.php:229
+msgid "Someone in"
+msgstr "Seseorang di"
+
+#: ../init.php:230
+msgid "purchase a"
+msgstr "telah membeli"
+
+#: ../init.php:231
+msgid "ago"
+msgstr "lalu"
+
+#: ../init.php:232
+msgid "from now"
+msgstr "mulai sekarang"
+
+#: ../init.php:233
+msgid "less than a minute"
+msgstr "kurang dari satu menit yang lalu"
+
+#: ../init.php:234
+msgid "about a minute"
+msgstr "sekitar satu menit"
+
+#: ../init.php:235
+msgid "minutes"
+msgstr "menit"
+
+#: ../init.php:236
+msgid "about an hour"
+msgstr "sekitar satu jam"
+
+#: ../init.php:237
+msgid "about"
+msgstr "sekitar"
+
+#: ../init.php:238
+msgid "hours"
+msgstr "jam"
+
+#: ../init.php:239
+msgid "a day"
+msgstr "sehari"
+
+#: ../init.php:240
+msgid "days"
+msgstr "hari"
+
+#: ../init.php:241
+msgid "about a month"
+msgstr "sekitar sebulan"
+
+#: ../init.php:242
+msgid "months"
+msgstr "bulan"
+
+#: ../init.php:243
+msgid "about a year"
+msgstr "sekitar setahun"
+
+#: ../init.php:244
+msgid "years"
+msgstr "tahun"
+
+#: ../init.php:245
+msgid "in"
+msgstr "di"
+
+#: ../init.php:257
+msgid "Cepatlakoo Sales Booster"
+msgstr "Cepatlakoo Sales Booster"
+
+#: ../init.php:272
+msgid "Display sales booster notification in this page"
+msgstr "Tampilkan notifikasi sales booster di halaman ini"
+
+#~ msgid "Set a timer to delay sales items in the queue"
+#~ msgstr "Delay per notifikasi"
+
+#~ msgid "Enable Woo Sales Boaster"
+#~ msgstr "Aktifan Woo Sales Boaster"

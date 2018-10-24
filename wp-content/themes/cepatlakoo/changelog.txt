@@ -1,0 +1,216 @@
+** Changelog untuk Cepatlakoo WordPress theme **
+** Developer: https://cepatlakoo.com **
+
+10 Juli 2018 - Versi 1.3.7
+- UPDATED: Update plugin Cepatlakoo Sales Booster 1.1.4
+- UPDATED: Update plugin Cepatlakoo Ongkir versi 1.3.3
+- UPDATED: Update plugin Cepatlakoo Input Resi versi 1.1.0
+- FIXED : Fix trigger fb pixel tombol add to cart ketika menggunakan elementor
+- FIXED : Fix klik tombol kontak di detail produk
+
+25 Mei 2018 - Versi 1.3.6
+- UPDATED: Padding top bar di My Account
+- UPDATED: Pembaruan template WooCommerce versi 3.4.0
+- UPDATED: Ukuran teks harga di halaman detail produk
+
+23 Mei 2018 - Versi 1.3.5
+- UPDATED: Ubah array default values untuk opsi Display Product Badges di Theme Options
+- FIXED: Nomor versi plugin CL Kode Pembayaran diubah dari 1.1.3 ke 1.1.4
+
+22 Mei 2018 - Versi 1.3.4
+- UPDATED: Add conditional called countdown.js library
+- ADDED: Tambah opsi yang memungkinkan daftar kurir di halaman checkout ditampilkan dalam dropdown selectbox atau radio button
+- ADDED: Tambah gambar produk yang dipesan pada halaman checkout
+- UPDATED: Rapikan style halaman blog dan blog detail
+- UPDATED: Rapikan style untuk warna link
+- ADDED: Tambah opsi di Theme Options untuk tampilkan / sembunyikan product tabs pada halaman produk WooCommerce
+- UPDATED: Ubah ukuran thumbnail 'cepatlakoo-blog-thumb' ke 860x500 pixel
+- UPDATED: Update plugin Cepatlakoo Kode Pembayaran ke v1.1.4.
+- FIXED: Perbaikan Elementor ketika plugin WooCommerce tidak diaktifkan
+- ADDED: Tambah opsi di Theme Options untuk menambahkan badge / label pada halaman produk detail, tepat di atas nama produk
+- UPDATED: Tampilan halaman register & login WooCommerce
+
+14 Mei 2018 - Versi 1.3.3
+- UPDATED: Update fitur SMS Notification menggunakan API versi 4 dari smsgateway.me, harap segera isi kode API token dari Theme Options > SMS Notification agar dapat berjalan dengan baik
+- ADDED: Tambah opsi di Theme Options > Shop Settings untuk tampilkan atau sembunyikan fitur kupon diskon di halaman cart dan checkout
+- ADDED: Tambah opsi di Theme Options untuk atur warna icon shopping cart di header
+- ADDED: Tambah opsi di Theme Options untuk atur warna label diskon produk
+- ADDED: Tambah tombol konfirmasi pembayaran di halaman view order di my account
+- UPDATED: Teks kode resi yang tertukar dengan tanggal resi di tombol follow up SMS untuk order complete/selesai
+- ADDED: Tambah opsi untuk menampilkan countdown timer di halaman order-received
+- UPDATED: Perbaikan OpenGraph dan SEO meta box agar muncul setelah meta woocommerce
+
+
+3 Mei 2018 - Versi 1.3.2
+- UPDATED: Plugin Cepatlakoo Ongkir 1.3.1
+- UPDATED: Plugin Cepatlakoo Input Resi  1.1.0
+- FIXED: Perbaikan style field di halaman Edit Address
+- FIXED: Perbaikan trigger Facebook Pixel di sticky button
+- FIXED: Perbaikan OpenGraph dan SEO meta box agar muncul di post type product
+- UPDATED: Menu header sekarang mendukung hingga 4 level
+- UPDATED: Style tombol follow up di halaman Orders WooCommerce
+- FIXED: Countdown timer tidak jalan di halaman yang pakai Elementor
+- FIXED: Tombol konfirmasi pembayaran di email warnanya putih jadi tidak kelihatan
+- UPDATED: Pindahkan opsi Halaman Konfirmasi Pembayaran di theme options ke menu Shop Settings
+- UPDATED: Tambah padding di table order-review di halaman checkout
+- UPDATED: Icon telepon tertukar dengan icon LINE
+- FIXED: Problem tampilan pada filter di halaman shop pada mobile device jika kategori produk ada banyak
+
+18 April 2018, Versi 1.3.1
+- UPDATED: Improve style font heading pada tampilan di mobile device
+- FIXED: Warna label diskon
+- FIXED: Warna price filter slider
+- ADDED: Menambah varuable %lakoo_product_url% pada opsi WhatsApp Message dan SMS Message di Theme Options, untuk menampilkan url produk di pesan yang terkirim ke WA dan SMS
+- UPDATED: Link di menu mobile dengan value href berupa # ketika diklik otomatis akan membuka subm enunya
+- UPDATED: Ubah posisi menu Theme Options
+- ADDED: Icon untuk theme options
+- UPDATED: Pindahkan icon close pada mobile menu ke luar dari area #topbar agar jika #topbar di non-aktifkan icon close tetap muncul
+- ADDED: Opsi di theme options untuk menampilkan countdown timer di halaman order-received
+
+17 April 2018, Versi 1.3.0
+- DELETED: Theme options Titan Framework mulai versi ini tidak digunakan lagi
+- ADDED: Mulai versi ini dan ke depannya akan menggunakan theme options Redux Framework, SEGERA LAKUKAN MIGRASI ke theme options Redux Framework setelah Anda update ke versi Cepatlakoo ini. Simak video tutorial migrasinya di https://cepatlakoo.com/video-tutorial/tutorial-migrasi-theme-options-cepatlakoo/
+- UPDATED: Perbaikan pada struktur koding dan file untuk widget-widget Elementor, sekarang  semua widget Elementor untuk WooCommerce berbasis shortcode
+- ADDED: Fitur notifikasi order via SMS menggunakan layanan smsgateway.me, silahkan cek https://cepatlakoo.com/video-tutorials untuk melihat tutorialnya
+- UPDATED: Banyak perbaikan pada bug-bug kecil yang ada pada layout theme
+- ADDED: Widget Elementor baru Cepatlakoo Products in Category, untuk menampilkan produk yang berada pada kategori tertentu
+- ADDED: Opsi untuk auto play slideshow pada halaman Add/Edit Slideshow
+- FIXED: Tampilan post navigation di blog detail saat featured image tidak ada
+- UPDATED: Ganti library Semantic UI dengan Zurb Foundation
+- REMOVED: Hapus fitur pemilihan jenis cara penampilan variasi produk dengan bullet list
+- ADDED: Translasi bahasa Indonesia pada theme options dan perbaikan pada penamaan opsi
+- UPDATE: Betulkan penamaan file & nama widget Elementor
+- UPDATE: Update plugin Cepatlakoo Ongkir v1.3.0
+
+04 April, 2018 - Versi 1.2.6
+- UPDATED: Update plugin Cepatlakoo Input Resi v1.0.4
+- UPDATED: Update plugin Cepatlakoo Kode Pembayaran v1.1.3
+- UPDATED: Update plugin Cepatlakoo Ongkir v1.2.6
+- UPDATED: Update plugin Cepatlakoo Sales Booster v1.1.3
+- FIXED: Tampilkan kolom product pada tabel shopping cart di halaman cart
+- UPDATED: Update style di halaman order-recieved
+
+22 Maret, 2018 - Versi 1.2.5
+- UPDATED: Versi baru Cepatlakoo Ongkir 1.2.1
+- ADDED: Page template "Simple Checkout Page" untuk membuat halaman checkout menjadi lebih simple dan bebas distraksi
+- FIXED: Gambar produk tidak muncul pada halaman produk detail
+- FIXED: Perbaiki CSS untuk bullet * ordered list
+- FIXED: Icon stok habis tidak muncul
+- FIXED: Perbaiki tampilann post navigation pada halaman blog detail jika tidak ada featured image
+
+
+9 Maret, 2018 - Versi 1.2.4
+- FIXED : Perbaiki masalah pada tombol quick contact pada halaman produk detail
+- UPDATED: Buat animasi sticky header menjadi lebih smooth
+- UPDATED: Kini event Purchase pada Facebook Pixel akan tertrigger pada halaman order-received jika menggunakan metode pembayaran otomatis seperti Paypal, Midtrans, dll.
+
+
+5 Maret, 2018 - Versi 1.2.3
+- FIXED : Perbaiki bug pada countdown timer
+
+1 Maret, 2018 - Versi 1.2.2
+- FIXED : Perbaikan sistem cookies pada evergreen countdown
+- FIXED: Tampilan lightbox gambar produk
+- FIXED: Problem pada countdown timer & widget Single Product Highlight di Elementor
+
+27 Februari, 2018 - Versi 1.2.1
+- FIXED: Perbaiki currency jika WooCommerce tidak aktif
+- UPDATED: Template WooCommerce yang dioverride Cepatlakoo agar compatible dengan WooCommerce 3.3.3
+- FIXED: Widget Elementor Cepatlakoo - Featured Products tidak dapat menampilkan produk
+- UPDATED: Update library CMB2 ke versi terbaru
+- FIXED: Gambar produk yang menjadi blurry pada gambar ke 2,3 dan seterusnya
+- ADDED: Tambah page template baru dengan nama Fullwidth (No Page Title)
+
+20 Februari, 2018 - Versi 1.2.0
+- UPDATED: Rename plugin Cepatlakoo MyOngkir menjadi Cepatlakoo Ongkir. Banyak perbaikan serta improvement pada kode plugin. Silahkan non-aktifkan atau hapus plugin MyOngkir jika menggunakan plugin Cepatlakoo Ongkir
+- FIXED: Tampilan quick view yang berantakan
+- UPDATE: Improvement pada kode CSS untuk halaman login & register WooCommerce
+- FIXED: Masalah pixel ViewContent yang tertrigger 2x pada halaman detil produk
+
+31 Januari, 2018 - Versi 1.1.9
+- UPDATED: Update WooCommerce custom template agar support di versi WooCommerce 3.3.0
+
+10 Januari, 2018 - Versi 1.1.8
+- FIXED: Terkadang featured image produk muncul saat loading
+- FIXED: Masalah minor pada Magnific popup
+
+19 Desember, 2017 - Versi 1.1.7
+- FIXED: Masalah pixel pada tombol kontak
+- FIXED: Perbaiki margin pada tombol kontak di Elementor
+
+11 Desember, 2017 - Versi 1.1.6
+- FIXED: Masalah mobile menu pada layar ukuran tablet
+- UPDATED: Update plugin Titan Framework
+- UPDATED: Fungsi algoritma countdown timer
+
+14 November, 2017 - Versi 1.1.5
+- FIXED: Kode-kode aneh pada follow up message di WhatsApp
+- FIXED: Facebook Pixel event parameter
+- UPDATED: Mobile menu
+- UPDATED: Ukuran font blog post title pada mobile device
+- UPDATED: Tombol back to top
+- FIXED: Perbaiki posisi tulisan “SALE” atau “OBRAL” pada resolusi 800px ke bawah
+- UPDATED: Posisi tombol “X” pada quick view
+- FIXED: Masalah pada teks di akun bank pada halaman order-received (halaman setelah melakukan pemesanan)
+
+30 Oktober 2017 - Versi 1.1.4
+- FIXED: Sales Notify yang muncul terus-terusan di beberapa halaman
+
+28 Oktober 2017 - Versi 1.1.3
+- ADDED: Teks “MENU” pada mobile menu
+- UPDATED: Hapus judul halaman dari halaman cart, checkout dan order received
+- ADDED Tambah tombol konfirmasi pembayaran pada halaman order received
+- ADDED Tambah tombol konfirmasi pembayaran pada email yang dikirim ke pembeli
+- ADDED: Tombol WhatsApp bisa dibuat sticky dari Theme Options > Shopping Cart
+- ADDED: Widget Cepatlakoo Messenger Button di Messenger kini bisa diset sticky
+- UPDATED: Perbaiki posisi tombol close dan remove product pada sidebar cart agar lebih mudah diklik
+- UPDATED: Plugin Input Resi ke versi 1.0.1
+- ADDED: Opsi ubah warna icon cart di header ketika minimal ada 1 produk dalam cart. Warna dapat diubah dari Theme Options > Customize
+- UPDATED: Ubah teks default pada tombol WA/SMS yang ada pada halaman produk
+- UPDATED: Hapus warna backgroud pada form review (ulasan)
+- UPDATED: File translasi
+
+23 Oktober 2017 - Versi 1.1.2
+- UPDATED: Update beberapa file template WooCommerce overrides agar kompatible dengan WooCommerce 3.2.1
+  * woocommerce/cart/mini-cart.php
+  * woocommerce/checkout/thankyou.php
+  * woocommerce/global/quantity-input.php
+- UPDATED: Perbaiki margin dan ukuran font di halaman cart pada tampilan mobile
+- FIXED: Masalah CSS pada widget Cart
+- FIXED: Masalah padding atas dan bawah pada semua halaman
+- FIXED: Facebook Pixel parameter
+- FIXED: Tambahkan min-height agar halaman dengan konten sedikit tidak ada gap putih di bawah footer
+- FIXED: Problem di tombol WhatsApp di Elementor
+- UPDATED: Plugin Cepatlakoo Kode Pembayaran
+- FIXED: Warna mobile user menu
+- FIXED: Ukuran tombol kontak di halaman produk
+- UPDATED: auto height di gambar produk pada halaman produk detail
+- FIXED: countdown tidak muncul pada Elementor
+- ADDED: Opsi ubah warna harga diskon (harga coret) pada Theme Options > Customize
+
+30 September 2017 - Versi 1.1.1
+- FIXED: Problem di tombol WhatsApp
+- ADDED: Percantik field di halaman checkout dan field lainnya
+
+27 September 2017  -- Versi 1.1.0
+- FIXED: Kuantiti di sidebar cart panel bermasalah ketika produk di set jumlah stoknya
+- FIXED: Varian produk tidak masuk sidebar cart panel jika varian lebih dari 2 buah
+- FIXED: Icon tidak muncul di child theme
+- FIXED: Icon arrow di sub menu mobile menu yang tidak muncul
+- FIXED: Thumbnail produk diposisikan di bawah gambar produk yang lebih besar
+- FIXED: Loading terus menerus saat menyimpan varian produk
+- FIXED: Format nomor follow up button di halaman Pesanan
+- FIXED: Perbaikan fitur untuk mematikan shopping cart
+- FIXED: Javascript tidak terload di UC Browser
+- FIXED: Icon stok habis yang menghilang
+- FIXED: Quick view tidak muncul ketika diklik tombolnya pada beberapa situs
+- FIXED: Perbaiki struktur pesan di tombol follow up WA & SMS pada Theme Options
+- FIXED: Perbaiki penulisan deskripsi opsi-opsi di Theme Options
+- FIXED: Pindahkan posisi icon “x” untuk menghapus produk di sidebar cart panel ke pojok kanan
+- FIXED: Perbesar ukuran teks di tombol add to cart dan checkout pada layar handphone
+- FIXED: Warna background menu di footer
+- FIXED: Konfirmasi pembayaran body class tertrigger di semua halaman jika Select Purchase Confirmation Page belum di set
+- ADDED: Opsi ubah teks copyright di footer dari Theme Options
+
+30 Agustus, 2017 -- Versi 1.0.0
+- Rilis pertama

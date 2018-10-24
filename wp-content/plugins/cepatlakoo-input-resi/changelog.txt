@@ -1,0 +1,28 @@
+** Changelog untuk Cepatlakoo Input Resi WordPress plugin **
+** Author: http://cepatlakoo.com **
+
+19 April 2018 -- Version 1.1.0
+- ADD : add shipping date option
+- ADD : add shipping date on order details
+- ADD : add shipping date on email
+- ADD : add option for link cek Resi
+- UPDATED : update link cek resi on admin order detail, user order detail and email
+
+2 April 2018 -- Version 1.0.4
+- ADD : add saved setting options
+
+28 Maret 2018 -- Version 1.0.3
+- UPDATED : move submenu to under woocommerce
+
+09 Maret 2018 -- Version 1.0.2
+- FIX : fix undefined index di email
+
+25 Oktober 2017 -- Version 1.0.1
+- UPDATED : Ganti textdomain jadi cl-input-resi
+- UPDATED : Ganti bahasa default jadi bahasa inggris
+- UPDATED : Update file pot
+- FIX : Otomatis berubah bahasa
+- FIX : Order id di admin
+
+30 Agustus 2017 -- Versi 1.0.0
+- Rilis Pertama

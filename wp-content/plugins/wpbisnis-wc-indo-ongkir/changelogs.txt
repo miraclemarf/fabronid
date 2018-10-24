@@ -1,0 +1,12 @@
+
+=== 1.0.0 - 16 Maret 2018 ===
+
+full changelogs menyusul
+
+=== 0.2.9 - 5 Juni 2017 ===
+
+fixed: JNE JTR calculation
+
+=== 0.2.8 - 5 Juni 2017 ===
+
+fixed: shipping package weight calculation
